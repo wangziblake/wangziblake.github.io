@@ -13,7 +13,7 @@ Overall, we have published over 20 papers in top-tier peer-reviewed engineering 
 
 Research Interests
 ------
-Computational Magnetic resonance imaging and spectroscopy\
+Computational MRI & MRS\
 Biomedical image and signal processing, medical image analysis\
 Machine learning, deep learning, optimization algorithm\
 Structural/dynamic/quantitative/diffusion imaging
