@@ -37,7 +37,7 @@ arXiv: 2406.19043, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, ..., Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
 arXiv: 2404.01082, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
 
@@ -93,7 +93,7 @@ IEEE Transactions on Computational Imaging, 2023. <br />
 **Exponential signal reconstruction with deep Hankel matrix factorization**\
 Yihui Huang, Jinkui Zhao, **Zi Wang**, Di Guo, Vladislav Orekhov, Xiaobo Qu\
 IEEE Transactions on Neural Networks and Learning Systems, 2023. <br />
-<br />
+<br /><br />
 
 <img align="left" width="300" src="/images/BMC_MRI.png" style="margin-right: 15px" /> 
 
