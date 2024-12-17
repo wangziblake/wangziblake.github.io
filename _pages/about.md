@@ -18,8 +18,7 @@ Biomedical image and signal processing, medical image analysis\
 Machine learning, deep learning, optimization algorithm\
 Structural/dynamic/quantitative/diffusion imaging
 
-We are working on several projects on the aforementioned topics. This is the word cloud generated from the titles of our papers, showing keywords such as MRI & MRS, AI, physics, reconstruction, analysis, separable learning, etc.
-
+We are working on several projects on the aforementioned topics. This is the word cloud generated from the titles of our papers, showing keywords such as MRI & MRS, AI, physics, reconstruction, analysis, separable learning, etc.\
 <p align="center"> 
   <img width="600" src="/images/wordcloud.png" />
 </p>
