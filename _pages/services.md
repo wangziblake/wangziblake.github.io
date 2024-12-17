@@ -17,7 +17,7 @@ Selected Journal & Conference Reviewer
 ------
 - Medical Image Analysis (MedIA)
 - IEEE Transactions on Medical Imaging (TMI)
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Computational Imaging (TCI)
 - Magnetic Resonance in Medicine (MRM)
 - Artificial Intelligence in Medicine (AIIM)
