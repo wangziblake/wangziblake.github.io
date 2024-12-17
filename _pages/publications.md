@@ -36,7 +36,7 @@ arXiv: 2406.19043, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<
 
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, ..., Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
-arXiv: 2404.01082, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
+arXiv: 2404.01082, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon)\]<br />
 <br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
