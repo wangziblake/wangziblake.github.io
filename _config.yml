@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zi Wang"
+title                    : "Zi Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Zi Wang"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Zi Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD at Xiamen University"
-  location         : "Xiamen University"
+  location         : "Xiamen University, China"
   uri              : # URL
   email            : "wangziblake@gmail.com" 
 
