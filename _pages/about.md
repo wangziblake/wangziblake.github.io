@@ -13,15 +13,16 @@ Overall, we have published over 20 papers in top-tier peer-reviewed engineering 
 
 Research Interests
 ------
-Magnetic resonance imaging and spectroscopy, dynamic imaging, quantitative imaging\
+Computational Magnetic resonance imaging and spectroscopy\
 Biomedical image and signal processing, medical image analysis\
 Machine learning, deep learning, optimization algorithm\
+Structural/dynamic/quantitative/diffusion imaging
 
 News
 ------
 [12/2024] I obtain my PhD degree at Xiamen University\
 [01/2024] I start to study at Imperial College London for one year as a Visiting PhD\
-[01/2023] One paper accepted at IEEE Transactions on Medical Imaging\
+[01/2023] One paper accepted at IEEE Transactions on Medical Imaging
 
 Contact
 ------
