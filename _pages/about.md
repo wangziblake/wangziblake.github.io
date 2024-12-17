@@ -13,21 +13,19 @@ Overall, we have published over 20 papers in top-tier peer-reviewed engineering 
 
 Research Interests
 ------
-Magnetic resonance imaging and spectroscopy, dynamic imaging, quantitative imaging
-Biomedical image and signal processing, medical image analysis
-Machine learning, deep learning, optimization algorithm
+Magnetic resonance imaging and spectroscopy, dynamic imaging, quantitative imaging\
+Biomedical image and signal processing, medical image analysis\
+Machine learning, deep learning, optimization algorithm\
 
 News
 ------
-[12/2024] I obtain my PhD degree at Xiamen University
-
-[01/2024] I start to study at Imperial College London for one year as a Visiting PhD
-
-[01/2023] One paper accepted at IEEE Transactions on Medical Imaging
+[12/2024] I obtain my PhD degree at Xiamen University\
+[01/2024] I start to study at Imperial College London for one year as a Visiting PhD\
+[01/2023] One paper accepted at IEEE Transactions on Medical Imaging\
 
 Contact
 ------
-Email: wangziblake@gmail.com
-Twitter: @Zi_Wang_X
-Address_CN: Nancundian Building, Xiangan Campus, Xiamen University, Xiamen, China
+Email: wangziblake@gmail.com\
+Twitter: @Zi_Wang_X\
+Address_CN: Nancundian Building, Xiangan Campus, Xiamen University, Xiamen, China\
 Address_UK: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, London, UK
