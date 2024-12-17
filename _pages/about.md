@@ -20,7 +20,7 @@ Structural/dynamic/quantitative/diffusion imaging
 
 News
 ------
-[12/2024] I finally obtain my PhD degree at Xiamen University !!!\
+[12/2024] Woo-hoo!!! I obtain my PhD degree at Xiamen University !!!\
 [01/2024] I start to study at Imperial College London for one year as a Visiting PhD\
 [01/2023] One paper accepted at IEEE Transactions on Medical Imaging
 
