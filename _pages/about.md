@@ -20,7 +20,7 @@ Structural/dynamic/quantitative/diffusion imaging
 
 News
 ------
-[12/2024] I obtain my PhD degree at Xiamen University !!!\
+[12/2024] I finally obtain my PhD degree at Xiamen University !!!\
 [01/2024] I start to study at Imperial College London for one year as a Visiting PhD\
 [01/2023] One paper accepted at IEEE Transactions on Medical Imaging
 
@@ -28,5 +28,5 @@ Contact
 ------
 Email: wangziblake@gmail.com\
 Twitter: @Zi_Wang_X\
-Address_CN: Nancundian Building, Xiangan Campus, Xiamen University, Xiamen, China\
-Address_UK: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, London, UK
+Address_CN: Nancundian Building, Xiangan Campus, Xiamen University\
+Address_UK: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London
