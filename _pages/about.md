@@ -13,9 +13,9 @@ I have been the recipient of several prestigious awards, e.g., the OCSMRM Young 
 
 Research Interests
 ------
-- Computational MRI & MRS\
-- Biomedical image and signal processing, medical image analysis\
-- Machine learning, deep learning, optimization algorithm\
+- Computational MRI & MRS
+- Biomedical image and signal processing, medical image analysis
+- Machine learning, deep learning, optimization algorithm
 - Structural/dynamic/quantitative/diffusion imaging
 
 We are working on several projects on the aforementioned topics. This is the word cloud generated from the titles of our papers, showing keywords such as MRI & MRS, AI, physics, reconstruction, analysis, separable learning, etc.
@@ -47,7 +47,7 @@ News
 
 Contact
 ------
-- Email: wangziblake@gmail.com\
-- Twitter: @Zi_Wang_X\
-- Address_CN: Nancundian Building, Xiangan Campus, Xiamen University\
+- Email: wangziblake@gmail.com
+- Twitter: @Zi_Wang_X
+- Address_CN: Nancundian Building, Xiangan Campus, Xiamen University
 - Address_UK: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London
