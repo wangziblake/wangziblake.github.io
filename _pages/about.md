@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024, and was a Visting Ph.D. at Imperial College London during 2024-2025. My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning. 
-Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings, including IEEE TMI/TNNLS/JBHI/SPM/TBME. I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024.
 
-For further information, please also look at my Google Scholar: https://scholar.google.com/citations?user=HtSjVDUAAAAJ&hl
+Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings, including IEEE TMI/TNNLS/JBHI/SPM/TBME. I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024.
 
 A data-driven personal website
 ======
