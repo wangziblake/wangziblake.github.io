@@ -26,6 +26,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 News
 ------
 [12/2024] **Woo-hoo!!! I obtain my PhD degree at Xiamen University !!!**\
+[11/2024] **Zi Wang’s Google Scholar citation is over 500 !!!**\
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing\
 [05/2024] Zi Wang is awarded the **OCSMRM Young Investigator Award (YIA)**\
 [05/2024] Zi Wang is awarded the **ISMRM Summa Cum Laude Merit Award (Top 3%)**\
@@ -33,16 +34,16 @@ News
 [04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)\
 [01/2024] **I start to study at Imperial College London for one year as a Visiting PhD (Funded)**\
 [12/2023] Zi Wang is awarded the **Chinese National Scholarship**\
-[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering\
+[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)\
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging\
 [10/2023] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)\
 [09/2023] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems\
 [05/2023] Call for participation in our **CMRxRecon challenge at MICCAI 2023**\
 [05/2023] One paper accepted at IEEE Transactions on Computational Imaging\
-[03/2023] One paper accepted at IEEE Signal Processing Magazine\
+[03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)\
 [01/2023] One paper accepted at IEEE Transactions on Medical Imaging (First author)\
 [12/2021] One review paper accepted at BMC Medical Imaging\
-[03/2021] One review paper accepted at Magnetic Resonance in Chemistry\
+[03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)\
 [04/2020] One review paper accepted at Chemistry –A European Journal (First author)
 
 Contact
