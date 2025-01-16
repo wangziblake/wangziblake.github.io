@@ -25,21 +25,21 @@ arXiv: 2307.13220, 2024. \[[code](https://github.com/wangziblake/PISF)\]<br />
 arXiv: 2402.15939, 2024. <br />
 <br /><br /><br />
 
-<img align="left" width="300" src="/images/RAI_CMR.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px" /> 
 
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, ..., Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
 arXiv: 2404.01082, 2024. \[[code](https://github.com/CmrxRecon/CMRxRecon)\]<br />
 <br /><br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/RAI_CMR.png" style="margin-right: 15px" /> 
 
 **CMRxRecon2024: A multi-modality, multi-view k-space dataset boosting universal machine learning for accelerated cardiac MRI**\
 **Zi Wang#**, Fanwen Wang#, Chen Qin, Shuo Wang, Jun Lyu, Yan Li, Cheng Ouyang, ..., Guang Yang, Xiaobo Qu, Chengyan Wang\
 Radiology: Artificial Intelligence, 2025. \[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br /><br /><br />
 
-<img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
 
 **A faithful deep sensitivity estimation for accelerated magnetic resonance imaging**\
 **Zi Wang#**, Haoming Fang#, Chen Qian, Boxuan Shi, Lijun Bao, Liuhong Zhu, Jianjun Zhou, Wenping Wei, Jianzhong Lin, Di Guo, Xiaobo Qu\
