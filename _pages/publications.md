@@ -71,7 +71,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2023. \[[code](https:
 
 **Physics-driven synthetic data learning for biomedical magnetic resonance: The imaging physics-based data synthesis paradigm for artificial intelligence**\
 Qinqin Yang, **Zi Wang**, Kunyuan Guo, Congbo Cai, Xiaobo Qu\
-IEEE Signal Processing Magazine, 2023. <br />
+IEEE Signal Processing Magazine, 2023. \[[platform](https://csrc.xmu.edu.cn/CloudBrain.html)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/TBME_DWI.png" style="margin-right: 15px" /> 
