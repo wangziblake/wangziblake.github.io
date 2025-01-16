@@ -64,7 +64,7 @@ IEEE Transactions on Medical Imaging, 2023. <br />
 
 **A sparse model-inspired deep thresholding network for exponential signal reconstruction—Application in fast biological spectroscopy**\
 **Zi Wang**, Di Guo, Zhangren Tu, Yihui Huang, Yirong Zhou, Jian Wang, Liubin Feng, Donghai Lin, Yongfu You, Tatiana Agback, Vladislav Orekhov, Xiaobo Qu\
-IEEE Transactions on Neural Networks and Learning Systems, 2023. \[[code](https://github.com/wangziblake/MoDern)\]<br />
+IEEE Transactions on Neural Networks and Learning Systems, 2023. \[[code](https://github.com/wangziblake/MoDern)\]\[[platform](https://csrc.xmu.edu.cn/CloudBrain.html)\]<br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/images/SPM_SYNDATA.png" style="margin-right: 15px" /> 
