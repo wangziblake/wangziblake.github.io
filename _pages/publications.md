@@ -88,25 +88,11 @@ Dicheng Chen, Wanqi Hu, Huiting Liu, Yirong Zhou, Tianyu Qiu, Yihui Huang, **Zi 
 IEEE Transactions on Computational Imaging, 2023. <br />
 <br />
 
-<img align="left" width="300" src="/images/TNNLS_DHNMR.png" style="margin-right: 15px" /> 
-
-**Exponential signal reconstruction with deep Hankel matrix factorization**\
-Yihui Huang, Jinkui Zhao, **Zi Wang**, Di Guo, Vladislav Orekhov, Xiaobo Qu\
-IEEE Transactions on Neural Networks and Learning Systems, 2023. <br />
-<br /><br />
-
 <img align="left" width="300" src="/images/BMC_MRI.png" style="margin-right: 15px" /> 
 
 **A review on deep learning MRI reconstruction without fully sampled k-space**\
 Gushan Zeng, Yi Guo, Jiaying Zhan, **Zi Wang**, Xiaobo Qu, Di Guo\
 BMC Medical Imaging, 2021. <br />
-<br />
-
-<img align="left" width="300" src="/images/MRC_NMR.png" style="margin-right: 15px" /> 
-
-**Review and prospect: NMR spectroscopy denoising and reconstruction with low rank Hankel matrices and tensors**\
-Tianyu Qiu, **Zi Wang**, Huiting Liu, Di Guo, Xiaobo Qu\
-Magnetic Resonance in Chemistry, 2021. <br />
 <br />
 
 <img align="left" width="300" src="/images/CEJ_NMR.png" style="margin-right: 15px" /> 
