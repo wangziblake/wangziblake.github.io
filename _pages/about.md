@@ -26,7 +26,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 News
 ------
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
-[12/2024] **Woo-hoo!!! Zi Wang obtains his PhD degree at Xiamen University!!!**\
+[12/2024] **Zi Wang obtains his PhD degree at Xiamen University!!!**\
 [11/2024] **Zi Wang’s Google Scholar citation is over 500!!!**\
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing\
 [05/2024] Zi Wang is awarded the **OCSMRM Young Investigator Award (YIA)**\
