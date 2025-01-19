@@ -19,6 +19,7 @@ Selected Journal & Conference Reviewer
 - IEEE Transactions on Medical Imaging (TMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Computational Imaging (TCI)
+- IEEE Transactions on Instrumentation and Measurement (TIM)
 - Magnetic Resonance in Medicine (MRM)
 - Artificial Intelligence in Medicine (AIIM)
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
