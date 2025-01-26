@@ -51,5 +51,4 @@ Contact
 ------
 - Email: wangziblake@gmail.com
 - Twitter: @Zi_Wang_X
-- Address_CN: Nancundian Building, Xiangan Campus, Xiamen University
-- Address_UK: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London
+- Address: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London
