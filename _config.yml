@@ -25,7 +25,7 @@ author:
   name             : "Zi Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD at Xiamen University"
-  location         : "Xiamen University, China"
+  location         : # "Xiamen University, China"
   uri              : # URL
   email            : # "wangziblake@gmail.com" 
 
