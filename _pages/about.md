@@ -25,6 +25,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[01/2025] One paper accepted at Medical Image Analysis\
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
 [12/2024] **Zi Wang obtains his PhD degree at Xiamen University!!!**\
 [11/2024] **Zi Wang’s Google Scholar citation is over 500!!!**\
