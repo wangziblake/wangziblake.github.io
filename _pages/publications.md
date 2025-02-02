@@ -29,7 +29,7 @@ arXiv: 2402.15939, 2024. \[[paper](https://doi.org/10.48550/arXiv.2402.15939)\]<
 
 **CMRxRecon2024: A multi-modality, multi-view k-space dataset boosting universal machine learning for accelerated cardiac MRI**\
 **Zi Wang#**, Fanwen Wang#, Chen Qin, Shuo Wang, Jun Lyu, Yan Li, Cheng Ouyang, ..., Guang Yang, Xiaobo Qu, Chengyan Wang\
-Radiology: Artificial Intelligence, 2025. \[[paper](https://doi.org/10.48550/arXiv.2406.19043)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
+Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10.1148/ryai.240443)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px" /> 
