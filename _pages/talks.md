@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 - **A multi-modality, multi-view k-space dataset boosting universal machine learning for cardiac MRI reconstruction**\
-   at SCMR Annual Scientific Sessions, USA, Jan 2025
+   at SCMR Annual Scientific Sessions, USA, Jan 2025 (Early Career Award Finalist, 1/6)
   
 - **Cardiac cine MRI with dimension-reduced deep separable spatiotemporal learning**\
    at ISMRM Scientific Meeting, Singapore, May 2024 (Summa Cum Laude Merit Award, Top 3%)
