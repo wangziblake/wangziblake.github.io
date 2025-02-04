@@ -25,6 +25,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)**\
 [01/2025] One paper accepted at Medical Image Analysis\
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
 [12/2024] **Zi Wang obtains his PhD degree at Xiamen University!!!**\
