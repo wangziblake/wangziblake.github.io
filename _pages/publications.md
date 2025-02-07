@@ -36,7 +36,7 @@ Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10
 
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, ..., Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
-Medical Image Analysis, 2025. \[[paper](https://doi.org/10.48550/arXiv.2404.01082)\]\[[code](https://github.com/CmrxRecon/CMRxRecon)\]<br />
+Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103485)\]\[[code](https://github.com/CmrxRecon/CMRxRecon)\]<br />
 <br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
