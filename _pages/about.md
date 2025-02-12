@@ -25,7 +25,6 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-I am a Postdoctoral Fellow at the Department of Bioengineering and I-X, Imperial College London.
 [02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow**\
 [02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)**\
 [01/2025] One paper accepted at Medical Image Analysis\
