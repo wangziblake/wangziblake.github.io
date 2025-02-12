@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visting Ph.D. at Imperial College London during 2024-2025 (advisor: Prof. Guang Yang). My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning.\
+I am a Postdoctoral Fellow at the Department of Bioengineering and I-X, Imperial College London. I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visting Ph.D. at Imperial College London during 2024-2025 (advisor: Prof. Guang Yang). My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning.\
 Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings, including IEEE TMI/TNNLS/JBHI/SPM/TBME, MedIA, and Radiology: AI.\
 I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), SCMR Early Career Award Finalist (1/6), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024.
 
@@ -25,6 +25,8 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+I am a Postdoctoral Fellow at the Department of Bioengineering and I-X, Imperial College London.
+[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow**\
 [02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)**\
 [01/2025] One paper accepted at Medical Image Analysis\
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
