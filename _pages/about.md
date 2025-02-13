@@ -29,8 +29,8 @@ News
 [02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)**\
 [01/2025] One paper accepted at Medical Image Analysis\
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
-[12/2024] **Zi Wang obtains his PhD degree at Xiamen University!!!**\
-[11/2024] **Zi Wang’s Google Scholar citation is over 500!!!**\
+[12/2024] **Zi Wang obtains his PhD degree at Xiamen University**\
+[11/2024] **Zi Wang’s Google Scholar citation is over 500**\
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing\
 [05/2024] Zi Wang is awarded the **OCSMRM Young Investigator Award (YIA)**\
 [05/2024] Zi Wang is awarded the **ISMRM Summa Cum Laude Merit Award (Top 3%)**\
