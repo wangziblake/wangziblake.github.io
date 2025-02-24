@@ -25,7 +25,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow**<br>
+[02/2025] <strong>Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow</strong><br>
 [02/2025] Zi Wang is awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
 [01/2025] One paper accepted at Medical Image Analysis<br>
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)<br>
