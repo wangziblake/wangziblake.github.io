@@ -25,33 +25,21 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow**\
-[02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)**\
-[01/2025] One paper accepted at Medical Image Analysis\
-[01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)\
-[12/2024] **Zi Wang obtains his PhD degree at Xiamen University**\
-[11/2024] **Zi Wang’s Google Scholar citation is over 500**\
-[10/2024] One paper accepted at IEEE Transactions on Cloud Computing\
-[05/2024] Zi Wang is awarded the **OCSMRM Young Investigator Award (YIA)**\
-[05/2024] Zi Wang is awarded the **ISMRM Summa Cum Laude Merit Award (Top 3%)**\
-[05/2024] Call for participation in our **CMRxRecon2024 challenge at MICCAI 2024**\
-[04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)\
-[01/2024] **Zi Wang starts to study at Imperial College London as a Visiting PhD (Funded)**\
-[12/2023] Zi Wang is awarded the **Chinese National Scholarship**\
-[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)\
-[11/2023] One paper accepted at IEEE Transactions on Computational Imaging\
-[05/2023] Call for participation in our **CMRxRecon challenge at MICCAI 2023**\
-[05/2023] One paper accepted at IEEE Transactions on Computational Imaging\
-[03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)\
-[08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)\
-[01/2022] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)\
-[12/2021] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems\
-[12/2021] One review paper accepted at BMC Medical Imaging\
-[03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)\
-[04/2020] One review paper accepted at Chemistry –A European Journal (First author)
+[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow** <br>
+[02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)** <br>
+[01/2025] One paper accepted at Medical Image Analysis<br>
+[01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)<br>
 
 <details>
-<summary><strong>More news before 2024</strong></summary>
+<summary><strong>More news before 2025</strong></summary>
+[12/2024] <strong>Zi Wang obtains his PhD degree at Xiamen University</strong><br>
+[11/2024] <strong>Zi Wang’s Google Scholar citation is over 500</strong><br>
+[10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
+[05/2024] Zi Wang is awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
+[05/2024] Zi Wang is awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
+[05/2024] Call for participation in our <strong>CMRxRecon2024 challenge at MICCAI 2024</strong><br>
+[04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)<br>
+[01/2024] <strong>Zi Wang starts to study at Imperial College London as a Visiting PhD (Funded)</strong><br>
 [12/2023] Zi Wang is awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
