@@ -52,6 +52,7 @@ News
 [12/2021] One review paper accepted at BMC Medical Imaging\
 [03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)\
 [04/2020] One review paper accepted at Chemistry –A European Journal (First author)
+</details>
 
 Contact
 ------
