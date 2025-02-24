@@ -39,7 +39,7 @@ News
 [01/2024] **Zi Wang starts to study at Imperial College London as a Visiting PhD (Funded)**\
 
 <details markdown=1>
-<summary> More News before 2024 </summary>
+<summary> More News before 2024 </summary><br>
 [12/2023] Zi Wang is awarded the **Chinese National Scholarship**<br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
