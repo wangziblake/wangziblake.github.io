@@ -25,13 +25,13 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow** <br>
-[02/2025] Zi Wang is awarded the **SCMR Early Career Award Finalist (1/6)** <br>
+[02/2025] **Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow**<br>
+[02/2025] Zi Wang is awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
 [01/2025] One paper accepted at Medical Image Analysis<br>
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)<br>
 
 <details>
-<summary><strong>More news before 2025</strong></summary>
+<summary>More news before 2025</summary>
 [12/2024] <strong>Zi Wang obtains his PhD degree at Xiamen University</strong><br>
 [11/2024] <strong>Zi Wang’s Google Scholar citation is over 500</strong><br>
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
