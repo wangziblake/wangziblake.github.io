@@ -40,7 +40,7 @@ News
 
 <br><details markdown=1>
 <summary> More News before 2024 </summary><br>
-[12/2023] Zi Wang is awarded the **Chinese National Scholarship**<br>
+[12/2023] Zi Wang is awarded the <strong>Chinese National Scholarship<strong><br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
 [05/2023] Call for participation in our **CMRxRecon challenge at MICCAI 2023**<br>
