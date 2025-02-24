@@ -40,17 +40,17 @@ News
 
 <details markdown=1>
 <summary> More News before 2024 </summary>
-[12/2023] Zi Wang is awarded the **Chinese National Scholarship**\
-[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)\
-[11/2023] One paper accepted at IEEE Transactions on Computational Imaging\
-[05/2023] Call for participation in our **CMRxRecon challenge at MICCAI 2023**\
-[05/2023] One paper accepted at IEEE Transactions on Computational Imaging\
-[03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)\
-[08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)\
-[01/2022] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)\
-[12/2021] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems\
-[12/2021] One review paper accepted at BMC Medical Imaging\
-[03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)\
+[12/2023] Zi Wang is awarded the **Chinese National Scholarship**<br>
+[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
+[11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
+[05/2023] Call for participation in our **CMRxRecon challenge at MICCAI 2023**<br>
+[05/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
+[03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)<br>
+[08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
+[01/2022] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)<br>
+[12/2021] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems<br>
+[12/2021] One review paper accepted at BMC Medical Imaging<br>
+[03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)<br>
 [04/2020] One review paper accepted at Chemistry –A European Journal (First author)
 </details>
 
