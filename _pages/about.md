@@ -25,6 +25,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[03/2025] One paper accepted at Medical Image Analysis<br>
 [03/2025] Call for participation in our <strong>CMRxRecon2025 challenge at MICCAI 2025</strong><br>
 [02/2025] <strong>Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow</strong><br>
 [02/2025] Zi Wang is awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
