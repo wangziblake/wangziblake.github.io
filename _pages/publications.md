@@ -28,7 +28,7 @@ arXiv: 2402.15939, 2024. \[[paper](https://doi.org/10.48550/arXiv.2402.15939)\]<
 <img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px" /> 
 
 **Towards universal learning-based model for cardiac image reconstruction: Summary of the CMRxRecon2024 challenge**\
-Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
+Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
 arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
