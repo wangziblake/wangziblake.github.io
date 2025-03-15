@@ -43,7 +43,7 @@ Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10
 
 **Fast and ultra-high shot diffusion MRI image reconstruction with self-adaptive Hankel subspace**\
 Chen Qian, Mingyang Han, Liuhong Zhu, **Zi Wang**, Feiqiang Guan, Yucheng Guo, Dan Ruan, Yi Guo, Taishan Kang, Jianzhong Lin, Chengyan Wang, Merry Mani, Mathews Jacob, Meijin Lin, Di Guo, Xiaobo Qu, Jianjun Zhou\
-Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025)\]\[[code](https://github.com/Hamiya0213/DONATE)\]<br />
+Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103546)\]\[[code](https://github.com/Hamiya0213/DONATE)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px" /> 
