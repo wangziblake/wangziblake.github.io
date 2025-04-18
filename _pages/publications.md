@@ -25,7 +25,7 @@ Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, M
 arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
-<img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 80px" /> 
+<img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 100px" /> 
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
 **Zi Wang**, Xiaotong Yu, Chengyan Wang, Weibo Chen, Jiazheng Wang, Ying-Hua Chu, Hongwei Sun, Rushuai Li, Peiyong Li, Fan Yang, Haiwei Han, Taishan Kang, Jianzhong Lin, Chen Yang, Shufu Chang, Zhang Shi, Sha Hua, Yan Li, Juan Hu, Liuhong Zhu, Jianjun Zhou, Meijing Lin, Jiefeng Guo, Congbo Cai, Zhong Chen, Di Guo, Guang Yang, Xiaobo Qu\
