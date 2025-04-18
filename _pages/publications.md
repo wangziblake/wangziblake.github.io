@@ -25,7 +25,7 @@ Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, M
 arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
-<img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 100px" /> 
+<img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 80px" /> 
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
 **Zi Wang**, Xiaotong Yu, Chengyan Wang, Weibo Chen, Jiazheng Wang, Ying-Hua Chu, Hongwei Sun, Rushuai Li, Peiyong Li, Fan Yang, Haiwei Han, Taishan Kang, Jianzhong Lin, Chen Yang, Shufu Chang, Zhang Shi, Sha Hua, Yan Li, Juan Hu, Liuhong Zhu, Jianjun Zhou, Meijing Lin, Jiefeng Guo, Congbo Cai, Zhong Chen, Di Guo, Guang Yang, Xiaobo Qu\
@@ -46,7 +46,7 @@ Chen Qian, Mingyang Han, Liuhong Zhu, **Zi Wang**, Feiqiang Guan, Yucheng Guo, D
 Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103546)\]\[[code](https://github.com/Hamiya0213/DONATE)\]<br />
 <br />
 
-<img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px; margin-bottom: 50px" /> 
+<img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px; margin-bottom: 80px" /> 
 
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, Kunyuan Guo, Cheng Ouyang, Michael Tänzer, Meng Liu, Longyu Sun, Mengting Sun, Qing Li, Zhang Shi, Sha Hua, Hao Li, Zhensen Chen, Zhenlin Zhang, Bingyu Xin, Dimitris N. Metaxas, George Yiasemis, Jonas Teuwen, Liping Zhang, Weitian Chen, Yidong Zhao, Qian Tao, Yanwei Pang, Xiaohan Liu, Artem Razumov, Dmitry V. Dylov, Quan Dou, Kang Yan, Yuyang Xue, Yuning Du, Julia Dietlmeier, Carles Garcia-Cabrera, Ziad Al-Haj Hemidi, Nora Vogt, Ziqiang Xu, Yajing Zhang, Ying-Hua Chu, Weibo Chen, Wenjia Bai, Xiahai Zhuang, Jing Qin, Lianming Wu, Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
