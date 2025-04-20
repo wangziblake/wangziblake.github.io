@@ -29,7 +29,7 @@ arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
 **Zi Wang**, Xiaotong Yu, Chengyan Wang, Weibo Chen, Jiazheng Wang, Ying-Hua Chu, Hongwei Sun, Rushuai Li, Peiyong Li, Fan Yang, Haiwei Han, Taishan Kang, Jianzhong Lin, Chen Yang, Shufu Chang, Zhang Shi, Sha Hua, Yan Li, Juan Hu, Liuhong Zhu, Jianjun Zhou, Meijing Lin, Jiefeng Guo, Congbo Cai, Zhong Chen, Di Guo, Guang Yang, Xiaobo Qu\
-Medical Image Analysis, in press, arXiv: 2307.13220, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103616)\]\[[code](https://github.com/wangziblake/PISF)\]<br />
+Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103616)\]\[[code](https://github.com/wangziblake/PISF)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/RAI_CMR.png" style="margin-right: 15px" /> 
