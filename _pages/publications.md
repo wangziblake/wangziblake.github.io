@@ -11,13 +11,6 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications (#: Co-first authorship)
 ------
-<img align="left" width="300" src="/images/TBME_DEEPSSL.png" style="margin-right: 15px" /> 
-
-**Deep separable spatiotemporal learning for fast dynamic cardiac MRI**\
-**Zi Wang**, Min Xiao, Yirong Zhou, Chengyan Wang, Naiming Wu, Yi Li, Yiwen Gong, Shufu Chang, Yinyin Chen, Liuhong Zhu, Jianjun Zhou, Congbo Cai, He Wang, Di Guo, Guang Yang, Xiaobo Qu\
-arXiv: 2402.15939, 2024. \[[paper](https://doi.org/10.48550/arXiv.2402.15939)\]<br />
-<br /><br /><br />
-
 <img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px" /> 
 
 **Towards universal learning-based model for cardiac image reconstruction: Summary of the CMRxRecon2024 challenge**\
@@ -31,6 +24,13 @@ arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\
 **Zi Wang**, Xiaotong Yu, Chengyan Wang, Weibo Chen, Jiazheng Wang, Ying-Hua Chu, Hongwei Sun, Rushuai Li, Peiyong Li, Fan Yang, Haiwei Han, Taishan Kang, Jianzhong Lin, Chen Yang, Shufu Chang, Zhang Shi, Sha Hua, Yan Li, Juan Hu, Liuhong Zhu, Jianjun Zhou, Meijing Lin, Jiefeng Guo, Congbo Cai, Zhong Chen, Di Guo, Guang Yang, Xiaobo Qu\
 Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103616)\]\[[code](https://github.com/wangziblake/PISF)\]<br />
 <br />
+
+<img align="left" width="300" src="/images/TBME_DEEPSSL.png" style="margin-right: 15px" /> 
+
+**Deep separable spatiotemporal learning for fast dynamic cardiac MRI**\
+**Zi Wang**, Min Xiao, Yirong Zhou, Chengyan Wang, Naiming Wu, Yi Li, Yiwen Gong, Shufu Chang, Yinyin Chen, Liuhong Zhu, Jianjun Zhou, Congbo Cai, He Wang, Xianwang Jiang, Di Guo, Guang Yang, Xiaobo Qu\
+IEEE Transactions on Biomedical Engineering, 2025. \[[paper](https://doi.org/10.48550/arXiv.2402.15939)\]<br />
+<br /><br /><br />
 
 <img align="left" width="300" src="/images/RAI_CMR.png" style="margin-right: 15px" /> 
 
