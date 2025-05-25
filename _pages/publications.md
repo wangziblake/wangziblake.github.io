@@ -29,7 +29,7 @@ Medical Image Analysis, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103
 
 **Deep separable spatiotemporal learning for fast dynamic cardiac MRI**\
 **Zi Wang**, Min Xiao, Yirong Zhou, Chengyan Wang, Naiming Wu, Yi Li, Yiwen Gong, Shufu Chang, Yinyin Chen, Liuhong Zhu, Jianjun Zhou, Congbo Cai, He Wang, Xianwang Jiang, Di Guo, Guang Yang, Xiaobo Qu\
-IEEE Transactions on Biomedical Engineering, 2025. \[[paper](https://doi.org/10.48550/arXiv.2402.15939)\]<br />
+IEEE Transactions on Biomedical Engineering, 2025. \[[paper](https://doi.org/10.1109/TBME.2025.3574090)\]<br />
 <br /><br /><br />
 
 <img align="left" width="300" src="/images/RAI_CMR.png" style="margin-right: 15px" /> 
