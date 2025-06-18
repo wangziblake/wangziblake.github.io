@@ -20,6 +20,7 @@ Selected Journal & Conference Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Computational Imaging (TCI)
 - IEEE Transactions on Instrumentation and Measurement (TIM)
+- IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - Magnetic Resonance in Medicine (MRM)
 - Artificial Intelligence in Medicine (AIIM)
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
