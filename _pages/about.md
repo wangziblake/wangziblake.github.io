@@ -45,7 +45,7 @@ News
 [05/2024] Zi Wang is awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong>CMRxRecon2024 challenge at MICCAI 2024</strong><br>
 [04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)<br>
-[01/2024] <strong>Zi Wang starts to study at Imperial College London as a Visiting PhD (Funded)</strong><br>
+[01/2024] <strong>Zi Wang starts to study at Imperial College London as a Visiting Researcher (Funded)</strong><br>
 [12/2023] Zi Wang is awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
