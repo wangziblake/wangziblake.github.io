@@ -22,6 +22,7 @@ Selected Journal & Conference Reviewer
 - IEEE Transactions on Instrumentation and Measurement (TIM)
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - Magnetic Resonance in Medicine (MRM)
+- Magnetic Resonance Letters (MRL)
 - Artificial Intelligence in Medicine (AIIM)
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - IEEE International Symposium on Biomedical Imaging (ISBI)
