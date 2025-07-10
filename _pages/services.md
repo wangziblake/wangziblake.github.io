@@ -24,6 +24,7 @@ Selected Journal & Conference Reviewer
 - Magnetic Resonance in Medicine (MRM)
 - Magnetic Resonance Letters (MRL)
 - Artificial Intelligence in Medicine (AIIM)
+- Scientific Reports (SR)
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - IEEE International Symposium on Biomedical Imaging (ISBI)
 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
