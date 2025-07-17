@@ -27,6 +27,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[07/2025] One paper accepted at Information Fusion <br>
 [05/2025] One paper accepted at IEEE Transactions on Biomedical Engineering (First author)<br>
 [04/2025] One paper accepted at Medical Image Analysis (First author)<br>
 [03/2025] One paper accepted at Medical Image Analysis<br>
