@@ -32,22 +32,22 @@ News
 [04/2025] One paper accepted at Medical Image Analysis (First author)<br>
 [03/2025] One paper accepted at Medical Image Analysis<br>
 [03/2025] Call for participation in our <strong>CMRxRecon2025 challenge at MICCAI 2025</strong><br>
-[02/2025] <strong>Zi Wang starts to work at Imperial College London as a Postdoctoral Fellow</strong><br>
-[02/2025] Zi Wang is awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
+[02/2025] Zi Wang starts to work at <strong>Imperial College London as a Postdoctoral Fellow</strong><br>
+[02/2025] Zi Wang awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
 [01/2025] One paper accepted at Medical Image Analysis<br>
 [01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)<br>
 
 <details>
 <summary>More news before 2025</summary>
-[12/2024] <strong>Zi Wang obtains his PhD degree at Xiamen University</strong><br>
-[11/2024] <strong>Zi Wang’s Google Scholar citation is over 500</strong><br>
+[12/2024] Zi Wang obtains his <strong>PhD degree at Xiamen University</strong><br>
+[11/2024] Zi Wang’s <strong>Google Scholar citation is over 500</strong><br>
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
-[05/2024] Zi Wang is awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
-[05/2024] Zi Wang is awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
+[05/2024] Zi Wang awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
+[05/2024] Zi Wang awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong>CMRxRecon2024 challenge at MICCAI 2024</strong><br>
 [04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)<br>
-[01/2024] <strong>Zi Wang starts to study at Imperial College London as a Visiting Researcher (Funded)</strong><br>
-[12/2023] Zi Wang is awarded the <strong>Chinese National Scholarship</strong><br>
+[01/2024] Zi Wang starts to study at <strong>Imperial College London as a Visiting Researcher (Funded)</strong><br>
+[12/2023] Zi Wang awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
 [05/2023] Call for participation in our <strong>CMRxRecon challenge at MICCAI 2023</strong><br>
