@@ -44,7 +44,7 @@ Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10
 **Robust cardiac cine MRI reconstruction with spatiotemporal diffusion model**\
 **Zi Wang**, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, Xiaobo Qu\
 IEEE Transactions on Computational Imaging, 2025. \[[paper](TODO)\]<br />
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
@@ -86,7 +86,7 @@ IEEE Transactions on Medical Imaging, 2023. \[[paper](https://ieeexplore.ieee.or
 **A sparse model-inspired deep thresholding network for exponential signal reconstruction—Application in fast biological spectroscopy**\
 **Zi Wang**, Di Guo, Zhangren Tu, Yihui Huang, Yirong Zhou, Jian Wang, Liubin Feng, Donghai Lin, Yongfu You, Tatiana Agback, Vladislav Orekhov, Xiaobo Qu\
 IEEE Transactions on Neural Networks and Learning Systems, 2023. \[[paper](https://ieeexplore.ieee.org/abstract/document/9705155/)\]\[[code](https://github.com/wangziblake/MoDern)\]\[[platform](https://csrc.xmu.edu.cn/CloudBrain.html)\]<br />
-<br /><br /><br />
+<br /><br />
 
 <img align="left" width="300" src="/images/SPM_SYNDATA.png" style="margin-right: 15px" /> 
 
