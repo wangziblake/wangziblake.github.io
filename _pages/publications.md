@@ -39,6 +39,13 @@ IEEE Transactions on Biomedical Engineering, 2025. \[[paper](https://doi.org/10.
 Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10.1148/ryai.240443)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
+<img align="left" width="300" src="/images/TCI_STDM.png" style="margin-right: 15px" /> 
+
+**Robust cardiac cine MRI reconstruction with spatiotemporal diffusion model**\
+**Zi Wang**, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, Xiaobo Qu\
+IEEE Transactions on Computational Imaging, 2025. \[[paper](TODO)\]<br />
+<br /><br /><br />
+
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
 **Fast and ultra-high shot diffusion MRI image reconstruction with self-adaptive Hankel subspace**\
