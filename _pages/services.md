@@ -21,6 +21,7 @@ Selected Journal & Conference Reviewer
 - IEEE Transactions on Computational Imaging (TCI)
 - IEEE Transactions on Instrumentation and Measurement (TIM)
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+- Engineering Applications of Artificial Intelligence (EAAI)
 - Magnetic Resonance in Medicine (MRM)
 - Magnetic Resonance Letters (MRL)
 - Artificial Intelligence in Medicine (AIIM)
