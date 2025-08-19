@@ -23,6 +23,7 @@ Selected Journal & Conference Reviewer
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - Magnetic Resonance in Medicine (MRM)
 - Magnetic Resonance Letters (MRL)
+- Information Fusion (IF)
 - Engineering Applications of Artificial Intelligence (EAAI)
 - Artificial Intelligence in Medicine (AIIM)
 - Scientific Reports (SR)
