@@ -24,6 +24,7 @@ Selected Journal & Conference Reviewer
 - Magnetic Resonance in Medicine (MRM)
 - Magnetic Resonance Letters (MRL)
 - Information Fusion (IF)
+- Knowledge-Based Systems (KBS)
 - Engineering Applications of Artificial Intelligence (EAAI)
 - Artificial Intelligence in Medicine (AIIM)
 - Scientific Reports (SR)
