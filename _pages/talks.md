@@ -14,6 +14,7 @@ author_profile: true
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral] (Summa Cum Laude Merit Award, Top 3%)
 
 - **Physics-informed synthetic data learning boosts multi-scenario fast MRI reconstruction**\
+   at Symposium on AI and Reconstruction for Biomedical Imaging, UK, March 2026 [Oral]\
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral]\
    at National Conference on Spectroscopy, China, Oct 2024 [Oral]\
    at Aoxin Medical Co., Ltd., China, Nov 2023 [Oral]
