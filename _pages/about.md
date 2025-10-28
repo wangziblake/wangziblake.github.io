@@ -27,8 +27,8 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[10/2025] Zi Wang awarded the UKRI Isambard-AI AIRR GPU Computing Service (PI)<br>
-[08/2025] Zi Wang awarded the Imperial Dame Julia Higgins Engineering Collaborative Research Fund (Co-PI)<br>
+[10/2025] Zi Wang awarded the <strong>UKRI Isambard-AI AIRR GPU Computing Service (PI)</strong><br>
+[08/2025] Zi Wang awarded the <strong>Imperial Dame Julia Higgins Engineering Collaborative Research Fund (Co-PI)</strong><br>
 [08/2025] One paper accepted at IEEE Transactions on Computational Imaging (First author)<br>
 [07/2025] One paper accepted at Information Fusion <br>
 [05/2025] One paper accepted at IEEE Transactions on Biomedical Engineering (First author)<br>
