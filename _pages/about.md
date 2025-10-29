@@ -12,6 +12,7 @@ redirect_from:
 I am a Postdoctoral Fellow at the Department of Bioengineering and Imperial-X, Imperial College London. I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visiting Researcher at Imperial College London during 2024-2025 (advisor: Prof. Guang Yang). My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning.\
 Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TNNLS/JBHI/SPM/TBME/TCI, MedIA, and Radiology: AI.\
 I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), SCMR Early Career Award Finalist (1/6), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024/2025.
+For more information, please visit my official homepage: [https://profiles.imperial.ac.uk/zi.wang123](https://profiles.imperial.ac.uk/zi.wang123).
 
 Research Interests
 ------
