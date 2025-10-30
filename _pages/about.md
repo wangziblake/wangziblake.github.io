@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher at the Department of Bioengineering and Imperial-
 
 Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TNNLS/JBHI/SPM/TBME/TCI, MedIA, and Radiology: AI. I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), SCMR Early Career Award Finalist (1/6), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024/2025.
 
-My Imperial official homepage: [https://profiles.imperial.ac.uk/zi.wang123](https://profiles.imperial.ac.uk/zi.wang123).
+My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang123).
 
 Research Interests
 ------
