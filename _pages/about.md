@@ -9,9 +9,11 @@ redirect_from:
 
 **_Decoding Signals, Empowering Medicine_**
 
-I am a Postdoctoral Researcher at the Department of Bioengineering and Imperial-X, Imperial College London. I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visiting Researcher at Imperial College London during 2024-2025 (advisor: Prof. Guang Yang). My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning.
+I am a Postdoctoral Researcher at the Department of Bioengineering and Imperial-X, Imperial College London. He obtained his Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visiting Researcher at Imperial College London during 2024-2025 (advisor: Prof. Guang Yang). 
 
-Overall, we have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TNNLS/JBHI/SPM/TBME/TCI, MedIA, and Radiology: AI. I have been the recipient of several prestigious awards, e.g., the OCSMRM Young Investigator Award (YIA), ISMRM Summa Cum Laude Merit Award (Top 3%), SCMR Early Career Award Finalist (1/6), and Chinese National Scholarship. I have also served as a member of organizing committee in several international challenges, e.g., CMRxRecon 2023/2024/2025.
+My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TNNLS/JBHI/SPM/TBME/TCI, MedIA, and Radiology: AI. I have also served as a primary organizer for prestigious MICCAI challenges such as CMRxRecon 2023/2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
+
+My work has been recognized by several prestigious awards, including the OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), SCMR Early Career Award Finalist (2025), and Chinese National Scholarship (2022). I currently hold research grants as PI of the UKRI Isambard-AI AIRR GPU Service and Co-PI of the Dame Julia Higgins Collaborative Research Fund.
 
 My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang123).
 
