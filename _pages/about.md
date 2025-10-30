@@ -68,5 +68,5 @@ News
 
 Contact
 ------
-- Email: zi.wang123@imperial.ac.uk; wangziblake@gmail.com
+- Email: zi.wang@imperial.ac.uk; wangziblake@gmail.com
 - Address: Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London
