@@ -15,7 +15,7 @@ My research interests include computational MRI & MRS, biomedical signal process
 
 My work has been recognized by several prestigious awards, including the OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), SCMR Early Career Award Finalist (2025), and Chinese National Scholarship (2022). I currently hold research grants as PI of the UKRI Isambard-AI AIRR GPU Service and Co-PI of the Dame Julia Higgins Collaborative Research Fund.
 
-My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang123).
+My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang).
 
 Research Interests
 ------
