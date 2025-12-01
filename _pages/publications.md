@@ -11,13 +11,6 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications (#: Co-first authorship)
 ------
-<img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px" /> 
-
-**Towards universal learning-based model for cardiac image reconstruction: Summary of the CMRxRecon2024 challenge**\
-Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
-arXiv: 2503.03971, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
-<br />
-
 <img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 80px" /> 
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
@@ -45,6 +38,13 @@ Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10
 **Zi Wang**, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, Xiaobo Qu\
 IEEE Transactions on Computational Imaging, 2025. \[[paper](https://doi.org/10.1109/TCI.2025.3598421)\]<br />
 <br /><br /><br /><br /><br /><br />
+
+<img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px" /> 
+
+**Towards universal learning-based model for cardiac image reconstruction: Summary of the CMRxRecon2024 challenge**\
+Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
+IEEE Transactions on Medical Imaging, 2025. \[[paper](https://doi.org/10.48550/arXiv.2503.03971)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
+<br />
 
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
