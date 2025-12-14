@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher at the Department of Bioengineering and Imperial-
 
 My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TNNLS/JBHI/SPM/TBME/TCI, MedIA, and Radiology: AI. I have also served as a primary organizer for prestigious MICCAI challenges such as CMRxRecon 2023/2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
 
-My work has been recognized by several prestigious awards, including the OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), SCMR Early Career Award Finalist (2025), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and Co-PI of the Dame Julia Higgins Collaborative Research Fund.
+My work has been recognized by several prestigious awards, including the OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), SCMR Early Career Award Finalist (2025), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Imperial Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and Co-PI of the Imperial Dame Julia Higgins Collaborative Research Fund.
 
 My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang).
 
@@ -31,10 +31,10 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[12/2025] Zi Wang awarded the <strong>Seeds for Success Fund (PI)</strong><br>
+[12/2025] Zi Wang awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
 [12/2025] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
 [10/2025] Zi Wang awarded the <strong>UKRI Isambard-AI AIRR GPU Computing Service (PI)</strong><br>
-[08/2025] Zi Wang awarded the <strong>Dame Julia Higgins Collaborative Research Fund (Co-PI)</strong><br>
+[08/2025] Zi Wang awarded the <strong>Imperial Dame Julia Higgins Collaborative Research Fund (Co-PI)</strong><br>
 [08/2025] One paper accepted at IEEE Transactions on Computational Imaging (First author)<br>
 [07/2025] One paper accepted at Information Fusion <br>
 [05/2025] One paper accepted at IEEE Transactions on Biomedical Engineering (First author)<br>
