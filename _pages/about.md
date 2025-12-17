@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zi Wang 王孜"
+title: "Zi Wang - 王孜"
 author_profile: true
 redirect_from: 
   - /about/
