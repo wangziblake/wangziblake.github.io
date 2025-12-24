@@ -42,9 +42,9 @@ IEEE Transactions on Computational Imaging, 2025. \[[paper](https://doi.org/10.1
 <img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px" /> 
 
 **Towards modality- and sampling-universal learning strategies for accelerating cardiovascular imaging: Summary of the CMRxRecon2024 challenge**\
-Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, ..., Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
+Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, Shuo Wang, Kunyuan Guo, Mengting Sun, Mingkai Huang, Haoyu Zhang, Michael Tänzer, Qirong Li, Xinran Chen, Jiahao Huang, Yinzhe Wu, Yuntong Lyu, Longyu Sun, Qing Li, Ziqiang Xu, Bingyu Xin, Dimitris N. Metaxas, Kian Anvari Hamdani, Shahabedin Nabavi, George Yiasemis, Jonas Teuwen, Zhenxi Zhang, Sha Wang, Chi Zhang, Daniel B. Ennis, Zhihao Xue, Chenxi Hu, Ruru Xu, Ilkay Oksuz, Donghang Lyu, Yanxin Huang, Xinrui Guo, Ruqian Hao, Jaykumar Patel, Guanke Cai, Binghua Chen, Yajing Zhang, Sha Hua, Zhenshen Chen, Qi Dou, Xiahai Zhuang, Qian Tao, Wenjia Bai, Jing Qin, He Wang, Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianmin Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
 IEEE Transactions on Medical Imaging, 2025. \[[paper](https://doi.org/10.1109/TMI.2025.3641610)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
-<br />
+<br /><br /><br />
 
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
