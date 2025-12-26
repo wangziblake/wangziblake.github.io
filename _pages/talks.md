@@ -4,6 +4,9 @@ title: "Invited Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- **Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments: A generalist foundation model and multimodal database**\
+   at Xiamen University, China, Dec 2025 [Oral]
+  
 - **Physics-informed synthetic data learning boosts multi-scenario fast MRI reconstruction**\
    at Symposium on AI and Reconstruction for Biomedical Imaging, UK, March 2026 [Oral]\
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral]\
@@ -11,13 +14,13 @@ author_profile: true
    at Aoxin Medical Co., Ltd., China, Nov 2023 [Oral]
 
 - **A multi-modality, multi-view k-space dataset boosting universal machine learning for cardiac MRI reconstruction**\
-   at SCMR Annual Scientific Sessions, USA, Jan 2025 [Oral] (Early Career Award Finalist, 1/6)
+   at SCMR Annual Scientific Sessions, USA, Jan 2025 [Oral] (SCMR Early Career Award Finalist)
 
 - **Robust cardiac cine MRI reconstruction with spatiotemporal diffusion model**\
    at ISMRM Scientific Meeting, USA, May 2025 [Poster]
   
 - **Cardiac cine MRI with dimension-reduced deep separable spatiotemporal learning**\
-   at ISMRM Scientific Meeting, Singapore, May 2024 [Oral] (Summa Cum Laude Merit Award, Top 3%)
+   at ISMRM Scientific Meeting, Singapore, May 2024 [Oral] (ISMRM Summa Cum Laude Merit Award)
   
 - **A faithful deep sensitivity estimation makes high-quality MRI reconstruction**\
    at ISMRM Scientific Meeting, Canada, June 2023 [Poster]
