@@ -11,6 +11,13 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications (#: Co-first authorship)
 ------
+<img align="left" width="300" src="/images/CardioMM_Nature.png" style="margin-right: 15px; margin-bottom: 80px" /> 
+
+**Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments with a generalist foundation model and multimodal database**\
+**Zi Wang**, et al.,\
+arXiv: 2512.21652, 2025. \[[paper](https://doi.org/10.48550/arXiv.2512.21652)\]\[[code]([https://github.com/wangziblake/PISF](https://github.com/wangziblake/CardioMM_MMCMR-427K))\]<br />
+<br />
+
 <img align="left" width="300" src="/images/MEDIA_PISF.png" style="margin-right: 15px; margin-bottom: 80px" /> 
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
