@@ -11,7 +11,7 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications (#: Co-first authorship)
 ------
-<img align="left" width="300" src="/images/CardioMM_Nature.png" style="margin-right: 15px; margin-bottom: 80px" /> 
+<img align="left" width="300" src="/images/CardioMM_Nature.png" style="margin-right: 15px" /> 
 
 **Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments with a generalist foundation model and multimodal database**\
 **Zi Wang**, et al.,\
