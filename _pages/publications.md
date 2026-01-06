@@ -43,7 +43,7 @@ Radiology: Artificial Intelligence, 2025. \[[paper](https://pubs.rsna.org/doi/10
 
 **Robust cardiac cine MRI reconstruction with spatiotemporal diffusion model**\
 **Zi Wang**, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, Xiaobo Qu\
-IEEE Transactions on Computational Imaging, 2025. \[[paper](https://doi.org/10.1109/TCI.2025.3598421)\]<br />
+IEEE Transactions on Computational Imaging, 2025. \[[paper](https://doi.org/10.1109/TCI.2025.3598421)\]\[[code](https://github.com/wangziblake/STDM)\]<br />
 <br /><br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/TPAMI_CMR2024.png" style="margin-right: 15px; margin-bottom: 160px" /> 
