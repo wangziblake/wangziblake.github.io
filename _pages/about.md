@@ -65,9 +65,9 @@ News
 [08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
 [01/2022] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)<br>
 [12/2021] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems<br>
-[12/2021] One review paper accepted at BMC Medical Imaging<br>
-[03/2021] One review paper accepted at Magnetic Resonance in Chemistry (Primary author)<br>
-[04/2020] One review paper accepted at Chemistry –A European Journal (First author)<br>
+[12/2021] One paper accepted at BMC Medical Imaging<br>
+[03/2021] One paper accepted at Magnetic Resonance in Chemistry (Primary author)<br>
+[04/2020] One paper accepted at Chemistry –A European Journal (First author)<br>
 </details>
 
 Contact
