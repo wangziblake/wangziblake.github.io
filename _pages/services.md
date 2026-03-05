@@ -13,6 +13,10 @@ Program Committee
 - Leading Organizer, MICCAI challenge on Universal Cardiac MRI Reconstruction (CMRxRecon2024), 2024 ([CMRxRecon2024](https://github.com/CmrxRecon/CMRxRecon2024))
 - Organizer, MICCAI challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023 ([CMRxRecon](https://github.com/CmrxRecon/CMRxRecon))
 
+Conference Role
+------
+- Session Chair, IEEE International Symposium on Biomedical Imaging (ISBI), 2026 ([ISBI 2026](https://biomedicalimaging.org/2026/))
+
 Selected Journal & Conference Reviewer
 ------
 - npj Digital Medicine
