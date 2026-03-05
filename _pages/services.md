@@ -28,6 +28,7 @@ Selected Journal & Conference Reviewer
 - Information Fusion (IF)
 - Knowledge-Based Systems (KBS)
 - Neural Networks (NN)
+- Biomedical Signal Processing and Control (BSPC)
 - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - IEEE International Symposium on Biomedical Imaging (ISBI)
 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
