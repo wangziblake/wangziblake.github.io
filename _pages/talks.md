@@ -13,6 +13,9 @@ author_profile: true
    at National Conference on Spectroscopy, China, Oct 2024 [Oral]\
    at Aoxin Medical Co., Ltd., China, Nov 2023 [Oral]
 
+- **Making 3D diffusion easier: Autocalibration-signal-conditioned diffusion model for dynamic MRI reconstruction**\
+   at IEEE International Symposium on Biomedical Imaging (ISBI), UK, April 2026 [Oral]
+
 - **A multi-modality, multi-view k-space dataset boosting universal machine learning for cardiac MRI reconstruction**\
    at SCMR Annual Scientific Sessions, USA, Jan 2025 [Oral] (SCMR Early Career Award Finalist)
 
