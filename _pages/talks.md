@@ -8,6 +8,7 @@ author_profile: true
    at Xiamen University, China, Dec 2025 [Oral]
   
 - **Physics-informed synthetic data learning boosts multi-scenario fast MRI reconstruction**\
+   at 365-MRI Physics Collective Meeting, UK, March 2026 [Oral]\
    at Symposium on AI and Reconstruction for Biomedical Imaging, UK, March 2026 [Oral]\
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral]\
    at National Conference on Spectroscopy, China, Oct 2024 [Oral]\
