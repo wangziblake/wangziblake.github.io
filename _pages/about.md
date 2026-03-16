@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[03/2026] Call for participation in our <strong>CMRx4DFlow2026 Challenge at MICCAI 2026</strong><br>
 [03/2026] Zi Wang served as the <strong>Session Chair for ISBI 2026</strong><br>
 [12/2025] Zi Wang awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
 [12/2025] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
@@ -41,7 +42,7 @@ News
 [05/2025] One paper accepted at IEEE Transactions on Biomedical Engineering (First author)<br>
 [04/2025] One paper accepted at Medical Image Analysis (First author)<br>
 [03/2025] One paper accepted at Medical Image Analysis<br>
-[03/2025] Call for participation in our <strong>CMRxRecon2025 challenge at MICCAI 2025</strong><br>
+[03/2025] Call for participation in our <strong>CMRxRecon2025 Challenge at MICCAI 2025</strong><br>
 [02/2025] Zi Wang starts to work at <strong>Imperial College London as a Postdoctoral Researcher</strong><br>
 [02/2025] Zi Wang awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
 [01/2025] One paper accepted at Medical Image Analysis<br>
@@ -54,13 +55,13 @@ News
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
 [05/2024] Zi Wang awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
 [05/2024] Zi Wang awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
-[05/2024] Call for participation in our <strong>CMRxRecon2024 challenge at MICCAI 2024</strong><br>
+[05/2024] Call for participation in our <strong>CMRxRecon2024 Challenge at MICCAI 2024</strong><br>
 [04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)<br>
 [01/2024] Zi Wang starts to study at <strong>Imperial College London as a Visiting Researcher (Funded)</strong><br>
 [12/2023] Zi Wang awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
 [11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
-[05/2023] Call for participation in our <strong>CMRxRecon challenge at MICCAI 2023</strong><br>
+[05/2023] Call for participation in our <strong>CMRxRecon Challenge at MICCAI 2023</strong><br>
 [05/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
 [03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)<br>
 [08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
