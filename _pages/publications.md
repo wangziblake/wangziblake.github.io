@@ -53,6 +53,13 @@ Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, Shuo Wang, Kunyuan Guo
 IEEE Transactions on Medical Imaging, 2025. \[[paper](https://doi.org/10.1109/TMI.2025.3641610)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
+<img align="left" width="300" src="/images/TIP_INRMOTION.png" style="margin-right: 15px" /> 
+
+**From coarse to continuous: Progressive refinement implicit neural representation for motion-robust anisotropic MRI reconstruction**\
+Zhenxuan Zhang, Lipei Zhang, Yanqi Cheng, **Zi Wang**, Fanwen Wang, Haosen Zhang, Yue Yang, Yinzhe Wu, Jiahao Huang, Angelica I Aviles-Rivero, Zhifan Gao, Guang Yang, Peter J. Lally\
+IEEE Transactions on Image Processing, 2026. \[[paper](https://doi.org/10.1109/TIP.2026.3678052)\]<br />
+<br />
+
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
 **Fast and ultra-high shot diffusion MRI image reconstruction with self-adaptive Hankel subspace**\
