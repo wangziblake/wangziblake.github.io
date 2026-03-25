@@ -58,7 +58,7 @@ IEEE Transactions on Medical Imaging, 2025. \[[paper](https://doi.org/10.1109/TM
 **From coarse to continuous: Progressive refinement implicit neural representation for motion-robust anisotropic MRI reconstruction**\
 Zhenxuan Zhang, Lipei Zhang, Yanqi Cheng, **Zi Wang**, Fanwen Wang, Haosen Zhang, Yue Yang, Yinzhe Wu, Jiahao Huang, Angelica I Aviles-Rivero, Zhifan Gao, Guang Yang, Peter J. Lally\
 IEEE Transactions on Image Processing, 2026. \[[paper](https://doi.org/10.1109/TIP.2026.3678052)\]<br />
-<br />
+<br /><br /><br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/MEDIA_DONATE.png" style="margin-right: 15px" /> 
 
