@@ -16,11 +16,11 @@ Program Committee
 
 Journal Role
 ------
-- Guest Editor, Special Issue on *Artificial Intelligence in Medical Imaging: Progress, Challenges and Perspectives*, Journal of Imaging, 2026 ([Call for Paper](https://www.mdpi.com/journal/jimaging/special_issues))
+- Guest Editor, [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) on *Artificial Intelligence in Medical Imaging: Progress, Challenges and Perspectives*, Journal of Imaging, 2026
 
 Conference Role
 ------
-- Session Chair, IEEE International Symposium on Biomedical Imaging (ISBI), 2026 ([ISBI 2026](https://biomedicalimaging.org/2026/))
+- Session Chair, IEEE International Symposium on Biomedical Imaging ([ISBI](https://biomedicalimaging.org/2026/)), 2026
 
 Selected Journal & Conference Reviewer
 ------
