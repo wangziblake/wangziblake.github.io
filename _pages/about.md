@@ -33,7 +33,7 @@ News
 ------
 [04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) in Journal of Imaging</strong><br>
 [03/2026] One paper accepted at IEEE Transactions on Image Processing<br>
-[03/2026] Call for participation in our <strong>CMRx4DFlow2026 Challenge at MICCAI 2026</strong><br>
+[03/2026] Call for participation in our <strong>[CMRx4DFlow2026](https://github.com/CmrxRecon/CMRx4DFlow2026) Challenge at MICCAI 2026</strong><br>
 [03/2026] Zi Wang served as the <strong>Session Chair for ISBI 2026</strong><br>
 [12/2025] Zi Wang awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
 [12/2025] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
