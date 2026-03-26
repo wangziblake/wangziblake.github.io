@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the Department of Bioengineering and Imperial-X, Imperial College London. I obtained my Ph.D. in Electronic Science from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), and was a Visiting Researcher at Imperial College London during 2024–2025 (advisor: Prof. Guang Yang). 
 
-My research interests include computational MRI & MRS, biomedical signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TIP/TNNLS/TBME/TCI/JBHI/SPM, MedIA, and Radiology: AI. I have also served as a primary organizer for prestigious MICCAI challenges such as CMRxRecon 2023/2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
+My research interests include computational MRI & MRS, biomedical image and signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TIP/TNNLS/TBME/TCI/JBHI/SPM, MedIA, and Radiology: AI. I have also served as a primary organizer for prestigious MICCAI challenges such as CMRxRecon 2023/2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
 
 My work has been recognized by several prestigious awards, including the OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), SCMR Early Career Award Finalist (2025), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Imperial Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and Co-PI of the Imperial Dame Julia Higgins Collaborative Research Fund.
 
@@ -32,7 +32,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 News
 ------
 [04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) in Journal of Imaging</strong><br>
-[03/2026] One paper accepted at IEEE Transactions on Image Processing<br>
+[03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
 [03/2026] Zi Wang served as the <strong>Session Chair for [ISBI 2026](https://biomedicalimaging.org/2026/)</strong><br>
 [12/2025] Zi Wang awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
@@ -54,7 +54,7 @@ News
 <summary>More news before 2025</summary>
 [12/2024] Zi Wang obtained his <strong>PhD degree at Xiamen University</strong><br>
 [11/2024] Zi Wang’s <strong>Google Scholar citation exceeded 500</strong><br>
-[10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
+[10/2024] One paper accepted at <em>IEEE Transactions on Cloud Computing</em><br>
 [05/2024] Zi Wang awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
 [05/2024] Zi Wang awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong><a href="https://github.com/CmrxRecon/CMRxRecon2024">CMRxRecon2024 Challenge</a> at MICCAI 2024</strong><br>
