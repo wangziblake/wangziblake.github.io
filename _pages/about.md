@@ -31,24 +31,24 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) in Journal of Imaging</strong><br>
+[04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
 [03/2026] Zi Wang served as the <strong>Session Chair for [ISBI 2026](https://biomedicalimaging.org/2026/)</strong><br>
 [12/2025] Zi Wang awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
-[12/2025] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
+[12/2025] One paper accepted at *IEEE Transactions on Medical Imaging* (First author)<br>
 [10/2025] Zi Wang awarded the <strong>UKRI Isambard-AI AIRR GPU Computing Service (PI)</strong><br>
 [08/2025] Zi Wang awarded the <strong>Imperial Dame Julia Higgins Collaborative Research Fund (Co-PI)</strong><br>
-[08/2025] One paper accepted at IEEE Transactions on Computational Imaging (First author)<br>
-[07/2025] One paper accepted at Information Fusion <br>
-[05/2025] One paper accepted at IEEE Transactions on Biomedical Engineering (First author)<br>
-[04/2025] One paper accepted at Medical Image Analysis (First author)<br>
-[03/2025] One paper accepted at Medical Image Analysis<br>
+[08/2025] One paper accepted at *IEEE Transactions on Computational Imaging* (First author)<br>
+[07/2025] One paper accepted at *Information Fusion* <br>
+[05/2025] One paper accepted at *IEEE Transactions on Biomedical Engineering* (First author)<br>
+[04/2025] One paper accepted at *Medical Image Analysis* (First author)<br>
+[03/2025] One paper accepted at *Medical Image Analysis*<br>
 [03/2025] Call for participation in our <strong>[CMRxRecon2025 Challenge](https://github.com/CmrxRecon/CMRxRecon2025) at MICCAI 2025</strong><br>
 [02/2025] Zi Wang started to work at <strong>Imperial College London as a Postdoctoral Researcher</strong><br>
 [02/2025] Zi Wang awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
-[01/2025] One paper accepted at Medical Image Analysis<br>
-[01/2025] One paper accepted at Radiology: Artificial Intelligence (First author)<br>
+[01/2025] One paper accepted at *Medical Image Analysis*<br>
+[01/2025] One paper accepted at *Radiology: Artificial Intelligence* (First author)<br>
 
 <details>
 <summary>More news before 2025</summary>
@@ -58,20 +58,20 @@ News
 [05/2024] Zi Wang awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
 [05/2024] Zi Wang awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong><a href="https://github.com/CmrxRecon/CMRxRecon2024">CMRxRecon2024 Challenge</a> at MICCAI 2024</strong><br>
-[04/2024] One paper accepted at IEEE Journal of Biomedical and Health Informatics (First author)<br>
+[04/2024] One paper accepted at <em>IEEE Journal of Biomedical and Health Informatics</em> (First author)<br>
 [01/2024] Zi Wang started to study at <strong>Imperial College London as a Visiting Researcher (Funded)</strong><br>
 [12/2023] Zi Wang awarded the <strong>Chinese National Scholarship</strong><br>
-[12/2023] One paper accepted at IEEE Transactions on Biomedical Engineering (Primary author)<br>
-[11/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
+[12/2023] One paper accepted at <em>IEEE Transactions on Biomedical Engineering</em> (Primary author)<br>
+[11/2023] One paper accepted at <em>IEEE Transactions on Computational Imaging</em><br>
 [05/2023] Call for participation in our <strong><a href="https://github.com/CmrxRecon/CMRxRecon">CMRxRecon Challenge</a> at MICCAI 2023</strong><br>
-[05/2023] One paper accepted at IEEE Transactions on Computational Imaging<br>
-[03/2023] One paper accepted at IEEE Signal Processing Magazine (Primary author)<br>
-[08/2022] One paper accepted at IEEE Transactions on Medical Imaging (First author)<br>
-[01/2022] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems (First author)<br>
-[12/2021] One paper accepted at IEEE Transactions on Neural Networks and Learning Systems<br>
-[12/2021] One paper accepted at BMC Medical Imaging<br>
-[03/2021] One paper accepted at Magnetic Resonance in Chemistry (Primary author)<br>
-[04/2020] One paper accepted at Chemistry –A European Journal (First author)<br>
+[05/2023] One paper accepted at <em>IEEE Transactions on Computational Imaging</em><br>
+[03/2023] One paper accepted at <em>IEEE Signal Processing Magazine</em> (Primary author)<br>
+[08/2022] One paper accepted at <em>IEEE Transactions on Medical Imaging</em> (First author)<br>
+[01/2022] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em> (First author)<br>
+[12/2021] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em><br>
+[12/2021] One paper accepted at <em>BMC Medical Imaging</em><br>
+[03/2021] One paper accepted at <em>Magnetic Resonance in Chemistry</em> (Primary author)<br>
+[04/2020] One paper accepted at <em>Chemistry –A European Journal</em> (First author)<br>
 </details>
 
 Contact
