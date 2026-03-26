@@ -53,7 +53,7 @@ News
 <details>
 <summary>More news before 2025</summary>
 [12/2024] Zi Wang obtained his <strong>PhD degree at Xiamen University</strong><br>
-[11/2024] Zi Wang’s <strong>Google Scholar citation is over 500</strong><br>
+[11/2024] Zi Wang’s <strong>Google Scholar citation exceeded 500</strong><br>
 [10/2024] One paper accepted at IEEE Transactions on Cloud Computing<br>
 [05/2024] Zi Wang awarded the <strong>OCSMRM Young Investigator Award (YIA)</strong><br>
 [05/2024] Zi Wang awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
