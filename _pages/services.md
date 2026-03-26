@@ -14,6 +14,10 @@ Program Committee
 - Leading Organizer, MICCAI Challenge on Universal Cardiac MRI Reconstruction (CMRxRecon2024), 2024 ([CMRxRecon2024](https://github.com/CmrxRecon/CMRxRecon2024))
 - Organizer, MICCAI Challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023 ([CMRxRecon](https://github.com/CmrxRecon/CMRxRecon))
 
+Journal Role
+------
+- Guest Editor, Special Issue on *Artificial Intelligence in Medical Imaging: Progress, Challenges and Perspectives*, Journal of Imaging, 2026 ([Call for Paper](https://www.mdpi.com/journal/jimaging/special_issues))
+
 Conference Role
 ------
 - Session Chair, IEEE International Symposium on Biomedical Imaging (ISBI), 2026 ([ISBI 2026](https://biomedicalimaging.org/2026/))
