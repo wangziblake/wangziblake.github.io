@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
 [04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
@@ -68,7 +69,7 @@ News
 [03/2023] One paper accepted at <em>IEEE Signal Processing Magazine</em> (Primary author)<br>
 [08/2022] One paper accepted at <em>IEEE Transactions on Medical Imaging</em> (First author)<br>
 [01/2022] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em> (First author)<br>
-[12/2021] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em><br>
+[12/2021] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em> (Primary author)<br>
 [12/2021] One paper accepted at <em>BMC Medical Imaging</em><br>
 [03/2021] One paper accepted at <em>Magnetic Resonance in Chemistry</em> (Primary author)<br>
 [04/2020] One paper accepted at <em>Chemistry –A European Journal</em> (First author)<br>
