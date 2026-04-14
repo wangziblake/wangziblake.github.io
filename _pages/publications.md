@@ -53,6 +53,13 @@ Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, Shuo Wang, Kunyuan Guo
 *IEEE Transactions on Medical Imaging*, 2025. \[[paper](https://doi.org/10.1109/TMI.2025.3641610)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
+<img align="left" width="300" src="/images/TMI_LFHFSYN.png" style="margin-right: 15px" /> 
+
+**Cyclic self-supervised diffusion for ultra low-field to high-field MRI synthesis**\
+Zhenxuan Zhang, Peiyuan Jing, **Zi Wang**, Ula Briski, Coraline Beitone, Yue Yang, Yinzhe Wu, Fanwen Wang, Liutao Yang, Jiahao Huang, Zhifan Gao, Zhaolin Chen, Kh Tohidul Islam, Guang Yang, Peter J. Lally\
+*IEEE Transactions on Medical Imaging*, 2026. \[[paper](https://arxiv.org/pdf/2510.13735)\]<br />
+<br /><br />
+
 <img align="left" width="300" src="/images/TIP_INRMOTION.png" style="margin-right: 15px" /> 
 
 **From coarse to continuous: Progressive refinement implicit neural representation for motion-robust anisotropic MRI reconstruction**\
