@@ -16,7 +16,7 @@ Program Committee
 
 Journal Role
 ------
-- Guest Editor, [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues) on *Progress, Challenges and Perspectives on Artificial Intelligence in Medical Imaging*, Journal of Imaging, 2026
+- Guest Editor, [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) on *Artificial Intelligence in Medical Imaging: Progress, Challenges and Perspectives*, Journal of Imaging, 2026
 
 Conference Role
 ------
