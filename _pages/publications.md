@@ -57,7 +57,7 @@ Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, Shuo Wang, Kunyuan Guo
 
 **Cyclic self-supervised diffusion for ultra low-field to high-field MRI synthesis**\
 Zhenxuan Zhang, Peiyuan Jing, **Zi Wang**, Ula Briski, Coraline Beitone, Yue Yang, Yinzhe Wu, Fanwen Wang, Liutao Yang, Jiahao Huang, Zhifan Gao, Zhaolin Chen, Kh Tohidul Islam, Guang Yang, Peter J. Lally\
-*IEEE Transactions on Medical Imaging*, 2026. \[[paper](https://arxiv.org/pdf/2510.13735)\]\[[code](https://github.com/ayanglab/CSS-Diff)\]<br />
+*IEEE Transactions on Medical Imaging*, 2026. \[[paper](https://doi.org/10.1109/TMI.2026.3685559)\]\[[code](https://github.com/ayanglab/CSS-Diff)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/TIP_INRMOTION.png" style="margin-right: 15px" /> 
