@@ -12,6 +12,7 @@ Program Committee
 - Organizer, MICCAI Challenge on Ultra-Fast 4D Flow MRI ([CMRx4DFlow2026](https://github.com/CmrxRecon/CMRx4DFlow2026)), 2026
 - Leading Organizer, MICCAI Challenge on Foundation Models for Cardiac MRI Reconstruction ([CMRxRecon2025](https://github.com/CmrxRecon/CMRxRecon2025)), 2025
 - Leading Organizer, MICCAI Challenge on Universal Cardiac MRI Reconstruction ([CMRxRecon2024](https://github.com/CmrxRecon/CMRxRecon2024)), 2024
+- Program Committee Member, MICCAI Statistical Atlases and Computational Modeling of the Heart ([STACOM](https://stacom.github.io/stacom2024)) Workshop, 2024
 - Organizer, MICCAI Challenge on Cardiac MRI Reconstruction ([CMRxRecon](https://github.com/CmrxRecon/CMRxRecon)), 2023
 
 Journal Role
