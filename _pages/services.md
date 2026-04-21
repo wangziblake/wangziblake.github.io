@@ -11,9 +11,9 @@ Program Committee
 ------
 - Organizer, MICCAI Challenge on Ultra-Fast 4D Flow MRI ([CMRx4DFlow2026](https://github.com/CmrxRecon/CMRx4DFlow2026)), 2026
 - Leading Organizer, MICCAI Challenge on Foundation Models for Cardiac MRI Reconstruction ([CMRxRecon2025](https://github.com/CmrxRecon/CMRxRecon2025)), 2025
-- Program Committee Member, MICCAI Statistical Atlases and Computational Modeling of the Heart ([STACOM2025](https://stacom.github.io/stacom2025)) Workshop, 2025
+- Program Committee Member, MICCAI Statistical Atlases and Computational Modeling of the Heart ([STACOM 2025](https://stacom.github.io/stacom2025)) Workshop, 2025
 - Leading Organizer, MICCAI Challenge on Universal Cardiac MRI Reconstruction ([CMRxRecon2024](https://github.com/CmrxRecon/CMRxRecon2024)), 2024
-- Program Committee Member, MICCAI Statistical Atlases and Computational Modeling of the Heart ([STACOM2024](https://stacom.github.io/stacom2024)) Workshop, 2024
+- Program Committee Member, MICCAI Statistical Atlases and Computational Modeling of the Heart ([STACOM 2024](https://stacom.github.io/stacom2024)) Workshop, 2024
 - Organizer, MICCAI Challenge on Cardiac MRI Reconstruction ([CMRxRecon](https://github.com/CmrxRecon/CMRxRecon)), 2023
 
 Journal Role
@@ -22,7 +22,7 @@ Journal Role
 
 Conference Role
 ------
-- Session Chair, IEEE International Symposium on Biomedical Imaging ([ISBI2026](https://biomedicalimaging.org/2026/)), 2026
+- Session Chair, IEEE International Symposium on Biomedical Imaging ([ISBI 2026](https://biomedicalimaging.org/2026/)), 2026
 
 Selected Journal & Conference Reviewer
 ------
