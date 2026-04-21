@@ -22,7 +22,7 @@ Journal Role
 
 Conference Role
 ------
-- Session Chair, IEEE International Symposium on Biomedical Imaging ([ISBI](https://biomedicalimaging.org/2026/)), 2026
+- Session Chair, IEEE International Symposium on Biomedical Imaging ([ISBI2026](https://biomedicalimaging.org/2026/)), 2026
 
 Selected Journal & Conference Reviewer
 ------
