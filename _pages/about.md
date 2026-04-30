@@ -31,7 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[05/2026] Zi Wang selected as the <strong>DAAD AINeT Fellowship</strong><br>
+[05/2026] Zi Wang selected as the <strong>DAAD AINeT Fellow</strong><br>
 [04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
 [04/2026] Zi Wang invited as the <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
