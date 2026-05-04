@@ -47,7 +47,7 @@ News
 [04/2025] One paper accepted at *Medical Image Analysis* (First author)<br>
 [03/2025] One paper accepted at *Medical Image Analysis*<br>
 [03/2025] Call for participation in our <strong>[CMRxRecon2025 Challenge](https://github.com/CmrxRecon/CMRxRecon2025) at MICCAI 2025</strong><br>
-[02/2025] Started to work at <strong>Imperial College London as a Postdoctoral Researcher</strong><br>
+[02/2025] Started to work at <strong>Imperial College London as a Research Associate</strong><br>
 [02/2025] Awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
 [01/2025] One paper accepted at *Medical Image Analysis*<br>
 [01/2025] One paper accepted at *Radiology: Artificial Intelligence* (First author)<br>
