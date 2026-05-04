@@ -61,7 +61,7 @@ News
 [05/2024] Awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong><a href="https://github.com/CmrxRecon/CMRxRecon2024">CMRxRecon2024 Challenge</a> at MICCAI 2024</strong><br>
 [04/2024] One paper accepted at <em>IEEE Journal of Biomedical and Health Informatics</em> (First author)<br>
-[01/2024] Started to study at <strong>Imperial College London for joint PhD research (Funded)</strong><br>
+[01/2024] Started to study at <strong>Imperial College London for Joint PhD Research (Funded)</strong><br>
 [12/2023] Awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at <em>IEEE Transactions on Biomedical Engineering</em> (Primary author)<br>
 [11/2023] One paper accepted at <em>IEEE Transactions on Computational Imaging</em><br>
