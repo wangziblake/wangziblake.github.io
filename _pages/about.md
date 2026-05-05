@@ -55,7 +55,7 @@ News
 
 <details>
 <summary>More news before 2025</summary>
-[12/2024] Obtained <strong>PhD degree at Xiamen University</strong><br>
+[12/2024] Obtained <strong>PhD Degree at Xiamen University</strong><br>
 [11/2024] <strong>Google Scholar citation exceeded 500</strong><br>
 [10/2024] One paper accepted at <em>IEEE Transactions on Cloud Computing</em><br>
 [05/2024] Awarded the <strong>OCSMRM Young Investigator Award</strong><br>
