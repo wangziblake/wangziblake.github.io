@@ -32,6 +32,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 News
 ------
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
+[05/2026] Call for participation in our <strong>[MRIxFields2026 Challenge](https://github.com/MRIxFields/MRIxFields2026) at MICCAI 2026</strong><br>
 [04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
 [04/2026] Invited as <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
