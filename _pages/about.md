@@ -74,7 +74,9 @@ News
 [12/2021] One paper accepted at <em>IEEE Transactions on Neural Networks and Learning Systems</em> (Primary author)<br>
 [12/2021] One paper accepted at <em>BMC Medical Imaging</em><br>
 [03/2021] One paper accepted at <em>Magnetic Resonance in Chemistry</em> (Primary author)<br>
+[09/2020] Started the <strong>PhD Program at Xiamen University</strong><br>
 [04/2020] One paper accepted at <em>Chemistry –A European Journal</em> (First author)<br>
+[09/2019] Started the <strong>Master Program at Xiamen University</strong><br>
 </details>
 
 Contact
