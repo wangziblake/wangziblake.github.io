@@ -22,7 +22,7 @@ Selected Publications (#: Co-first authorship)
 
 **One for multiple: Physics-informed synthetic data boosts generalizable deep learning for fast MRI reconstruction**\
 **Zi Wang**, Xiaotong Yu, Chengyan Wang, Weibo Chen, Jiazheng Wang, Ying-Hua Chu, Hongwei Sun, Rushuai Li, Peiyong Li, Fan Yang, Haiwei Han, Taishan Kang, Jianzhong Lin, Chen Yang, Shufu Chang, Zhang Shi, Sha Hua, Yan Li, Juan Hu, Liuhong Zhu, Jianjun Zhou, Meijing Lin, Jiefeng Guo, Congbo Cai, Zhong Chen, Di Guo, Guang Yang, Xiaobo Qu\
-*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103616)\]\[[code](https://github.com/wangziblake/PISF)\]<br />
+*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103616)\]\[[code&data](https://github.com/wangziblake/PISF)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/TBME_DEEPSSL.png" style="margin-right: 15px" /> 
@@ -36,7 +36,7 @@ Selected Publications (#: Co-first authorship)
 
 **CMRxRecon2024: A multimodality, multiview k-space dataset boosting universal machine learning for accelerated cardiac MRI**\
 **Zi Wang#**, Fanwen Wang#, Chen Qin, Shuo Wang, Jun Lyu, Yan Li, Cheng Ouyang, Haoyu Zhang, Kunyuan Guo, Zhang Shi, Qirong Li, Ziqiang Xu, Yajing Zhang, Hao Li, Sha Hua, Longyu Sun, Mengting Sun, Qing Li, Ying-Hua Chu, Wenjia Bai, Jing Qin, Xiahai Zhuang, Claudia Prieto, Alistair Young, Michael Markl, He Wang, Lian-Ming Wu, Guang Yang, Xiaobo Qu, Chengyan Wang\
-*Radiology: Artificial Intelligence*, 2025. \[[paper](https://pubs.rsna.org/doi/10.1148/ryai.240443)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
+*Radiology: Artificial Intelligence*, 2025. \[[paper](https://pubs.rsna.org/doi/10.1148/ryai.240443)\]\[[code&data](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/TCI_STDM.png" style="margin-right: 15px" /> 
@@ -50,7 +50,7 @@ Selected Publications (#: Co-first authorship)
 
 **Towards modality- and sampling-universal learning strategies for accelerating cardiovascular imaging: Summary of the CMRxRecon2024 challenge**\
 Fanwen Wang#, **Zi Wang#**, Yan Li#, Jun Lyu#, Chen Qin#, Shuo Wang, Kunyuan Guo, Mengting Sun, Mingkai Huang, Haoyu Zhang, Michael Tänzer, Qirong Li, Xinran Chen, Jiahao Huang, Yinzhe Wu, Yuntong Lyu, Longyu Sun, Qing Li, Ziqiang Xu, Bingyu Xin, Dimitris N. Metaxas, Kian Anvari Hamdani, Shahabedin Nabavi, George Yiasemis, Jonas Teuwen, Zhenxi Zhang, Sha Wang, Chi Zhang, Daniel B. Ennis, Zhihao Xue, Chenxi Hu, Ruru Xu, Ilkay Oksuz, Donghang Lyu, Yanxin Huang, Xinrui Guo, Ruqian Hao, Jaykumar Patel, Guanke Cai, Binghua Chen, Yajing Zhang, Sha Hua, Zhenshen Chen, Qi Dou, Xiahai Zhuang, Qian Tao, Wenjia Bai, Jing Qin, He Wang, Claudia Prieto, Michael Markl, Alistair Young, Hao Li, Xihong Hu, Lianming Wu, Xiaobo Qu, Guang Yang, Chengyan Wang\
-*IEEE Transactions on Medical Imaging*, 2025. \[[paper](https://doi.org/10.1109/TMI.2025.3641610)\]\[[code](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
+*IEEE Transactions on Medical Imaging*, 2025. \[[paper](https://doi.org/10.1109/TMI.2025.3641610)\]\[[code&data](https://github.com/CmrxRecon/CMRxRecon2024)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/TMI_LFHFSYN.png" style="margin-right: 15px" /> 
@@ -71,14 +71,14 @@ Zhenxuan Zhang, Lipei Zhang, Yanqi Cheng, **Zi Wang**, Fanwen Wang, Haosen Zhang
 
 **Fast and ultra-high shot diffusion MRI image reconstruction with self-adaptive Hankel subspace**\
 Chen Qian, Mingyang Han, Liuhong Zhu, **Zi Wang**, Feiqiang Guan, Yucheng Guo, Dan Ruan, Yi Guo, Taishan Kang, Jianzhong Lin, Chengyan Wang, Merry Mani, Mathews Jacob, Meijin Lin, Di Guo, Xiaobo Qu, Jianjun Zhou\
-*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103546)\]\[[code](https://github.com/Hamiya0213/DONATE)\]<br />
+*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103546)\]\[[code&data](https://github.com/Hamiya0213/DONATE)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/MEDIA_CMR2023.png" style="margin-right: 15px; margin-bottom: 80px" /> 
 
 **The state-of-the-art in cardiac MRI reconstruction: Results of the CMRxRecon challenge in MICCAI 2023**\
 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, **Zi Wang**, Kunyuan Guo, Cheng Ouyang, Michael Tänzer, Meng Liu, Longyu Sun, Mengting Sun, Qing Li, Zhang Shi, Sha Hua, Hao Li, Zhensen Chen, Zhenlin Zhang, Bingyu Xin, Dimitris N. Metaxas, George Yiasemis, Jonas Teuwen, Liping Zhang, Weitian Chen, Yidong Zhao, Qian Tao, Yanwei Pang, Xiaohan Liu, Artem Razumov, Dmitry V. Dylov, Quan Dou, Kang Yan, Yuyang Xue, Yuning Du, Julia Dietlmeier, Carles Garcia-Cabrera, Ziad Al-Haj Hemidi, Nora Vogt, Ziqiang Xu, Yajing Zhang, Ying-Hua Chu, Weibo Chen, Wenjia Bai, Xiahai Zhuang, Jing Qin, Lianming Wu, Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
-*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103485)\]\[[code](https://github.com/CmrxRecon/CMRxRecon)\]<br />
+*Medical Image Analysis*, 2025. \[[paper](https://doi.org/10.1016/j.media.2025.103485)\]\[[code&data](https://github.com/CmrxRecon/CMRxRecon)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/JBHI_JDSI.png" style="margin-right: 15px" /> 
