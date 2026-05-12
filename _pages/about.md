@@ -9,7 +9,7 @@ redirect_from:
 
 **_Decoding Signals, Empowering Medicine_**
 
-I am a Research Associate at the Department of Bioengineering and Imperial-X, Imperial College London. I obtained my Ph.D. in Physical Electronics from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), in a joint PhD research program with Imperial College London during 2024–2025 (advisor: Prof. Guang Yang). 
+I am a Research Associate at the Department of Bioengineering and Imperial-X, Imperial College London. I obtained my PhD in Physical Electronics from Xiamen University in December 2024 (mentor: Prof. Xiaobo Qu), in a joint PhD research program with Imperial College London during 2024–2025 (advisor: Prof. Guang Yang). 
 
 My research interests include computational MRI & MRS, biomedical image and signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TIP/TNNLS/TBME/TCI/JBHI/SPM, MedIA, and Radiology: AI. I have also served as a primary organizer for prestigious MICCAI challenges such as CMRxRecon 2023/2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
 
@@ -55,7 +55,7 @@ News
 
 <details>
 <summary>More news before 2025</summary>
-[12/2024] Obtained <strong>PhD at Xiamen University</strong><br>
+[12/2024] Obtained the <strong>PhD in Physical Electronics at Xiamen University</strong><br>
 [11/2024] <strong>Google Scholar citation exceeded 500</strong><br>
 [10/2024] One paper accepted at <em>IEEE Transactions on Cloud Computing</em><br>
 [05/2024] Awarded the <strong>OCSMRM Young Investigator Award</strong><br>
