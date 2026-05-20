@@ -4,6 +4,9 @@ title: "Invited Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- **AI-enabled cardiovascular MRI: From physical-informed imaging to clinically meaningful cardiovascular intelligence**\
+   at British Heart Foundation Programme Networking Event, UK, June 2026 [Oral]
+  
 - **Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments: A generalist foundation model and multimodal database**\
    at Xiamen University, China, Dec 2025 [Oral]
   
