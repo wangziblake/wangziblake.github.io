@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[06/2026] Three papers accepted at *MICCAI 2026* (Two as primary authors)<br>
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
 [05/2026] Call for participation in our <strong>[MRIxFields2026 Challenge](https://github.com/MRIxFields/MRIxFields2026) at MICCAI 2026</strong><br>
 [04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
@@ -38,10 +39,11 @@ News
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
 [03/2026] Served as <strong>Session Chair for [ISBI 2026](https://biomedicalimaging.org/2026/)</strong><br>
-[12/2025] Awarded the <strong>Imperial Seeds for Success Fund (PI)</strong><br>
+[01/2026] Three papers accepted at *IEEE ISBI 2026* (One as first author)<br>
+[12/2025] Awarded the <strong>Imperial Seeds for Success Fund</strong> (PI)<br>
 [12/2025] One paper accepted at *IEEE Transactions on Medical Imaging* (First author)<br>
-[10/2025] Awarded the <strong>UKRI Isambard-AI AIRR GPU Computing Service (PI)</strong><br>
-[08/2025] Awarded the <strong>Imperial Dame Julia Higgins Collaborative Research Fund (Co-PI)</strong><br>
+[10/2025] Awarded the <strong>UKRI Isambard-AI AIRR GPU Computing Service</strong> (PI)<br>
+[08/2025] Awarded the <strong>Imperial Dame Julia Higgins Collaborative Research Fund</strong> (Co-PI)<br>
 [08/2025] One paper accepted at *IEEE Transactions on Computational Imaging* (First author)<br>
 [07/2025] One paper accepted at *Information Fusion* <br>
 [05/2025] One paper accepted at *IEEE Transactions on Biomedical Engineering* (First author)<br>
@@ -62,7 +64,7 @@ News
 [05/2024] Awarded the <strong>ISMRM Summa Cum Laude Merit Award (Top 3%)</strong><br>
 [05/2024] Call for participation in our <strong><a href="https://github.com/CmrxRecon/CMRxRecon2024">CMRxRecon2024 Challenge</a> at MICCAI 2024</strong><br>
 [04/2024] One paper accepted at <em>IEEE Journal of Biomedical and Health Informatics</em> (First author)<br>
-[01/2024] Started the <strong>Joint PhD Research Program at Imperial College London (Funded)</strong><br>
+[01/2024] Started the <strong>Joint PhD Research Program at Imperial College London</strong> (Funded)<br>
 [12/2023] Awarded the <strong>Chinese National Scholarship</strong><br>
 [12/2023] One paper accepted at <em>IEEE Transactions on Biomedical Engineering</em> (Primary author)<br>
 [11/2023] One paper accepted at <em>IEEE Transactions on Computational Imaging</em><br>
