@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
 [06/2026] Three papers accepted at *MICCAI 2026* (Two as primary authors)<br>
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
 [05/2026] Call for participation in our <strong>[MRIxFields2026 Challenge](https://github.com/MRIxFields/MRIxFields2026) at MICCAI 2026</strong><br>
