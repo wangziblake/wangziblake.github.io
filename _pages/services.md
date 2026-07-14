@@ -28,6 +28,7 @@ Conference Role
 Selected Journal & Conference Reviewer
 ------
 - npj Digital Medicine
+- npj Artificial Intelligence
 - Medical Image Analysis (MedIA)
 - IEEE Transactions on Medical Imaging (TMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
