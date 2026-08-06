@@ -32,6 +32,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 News
 ------
 [08/2026] Awarded the <strong>Imperial Dame Julia Higgins Collaborative Research Fund</strong> (PI)<br>
+[06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author)<br>
 [06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
 [06/2026] Three papers accepted at *MICCAI 2026* (Two as primary authors)<br>
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
