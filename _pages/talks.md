@@ -5,20 +5,21 @@ permalink: /talks/
 author_profile: true
 ---
 - **AI-enabled cardiovascular MRI: From physics-informed imaging to clinically meaningful intelligence**\
-   at British Heart Foundation Programme Networking Event, UK, June 2026 [Oral]
+   at British Heart Foundation Programme Networking Event, UK, Jun 2026 [Oral]
   
 - **Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments: A generalist foundation model and multimodal database**\
+   at BIC-ISMRM Scientific Meeting, UK, Sept 2026 [Poster]
    at Xiamen University, China, Dec 2025 [Oral]
   
 - **Physics-informed synthetic data learning boosts multi-scenario fast MRI reconstruction**\
-   at 365-MRI Physics Collective Meeting, UK, March 2026 [Oral]\
-   at Symposium on AI and Reconstruction for Biomedical Imaging, UK, March 2026 [Oral]\
+   at 365-MRI Physics Collective Meeting, UK, Mar 2026 [Oral]\
+   at Symposium on AI and Reconstruction for Biomedical Imaging, UK, Mar 2026 [Oral]\
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral]\
    at National Conference on Spectroscopy, China, Oct 2024 [Oral]\
    at Aoxin Medical Co., Ltd., China, Nov 2023 [Oral]
 
 - **Making 3D diffusion easier: Autocalibration-signal-conditioned diffusion model for dynamic MRI reconstruction**\
-   at IEEE International Symposium on Biomedical Imaging (ISBI), UK, April 2026 [Oral]
+   at IEEE International Symposium on Biomedical Imaging (ISBI), UK, Apr 2026 [Oral]
 
 - **A multi-modality, multi-view k-space dataset boosting universal machine learning for cardiac MRI reconstruction**\
    at SCMR Annual Scientific Sessions, USA, Jan 2025 [Oral] (SCMR Early Career Award Finalist)
@@ -30,7 +31,7 @@ author_profile: true
    at ISMRM Scientific Meeting, Singapore, May 2024 [Oral] (ISMRM Summa Cum Laude Merit Award)
   
 - **A faithful deep sensitivity estimation makes high-quality MRI reconstruction**\
-   at ISMRM Scientific Meeting, Canada, June 2023 [Poster]
+   at ISMRM Scientific Meeting, Canada, Jun 2023 [Poster]
   
 - **Memory-friendly and robust deep learning architecture for accelerated MRI**\
    at ISMRM Scientific Meeting, UK, May 2022 [Oral]\
