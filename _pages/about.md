@@ -31,7 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
-[08/2026] Awarded the <strong>CIS Outstanding Doctoral Dissertation Award Finalist (Top 9)</strong><br>
+[08/2026] Awarded the <strong>CIS Outstanding Doctoral Dissertation Award Finalist (Top 18)</strong><br>
 [08/2026] Awarded the <strong>Dame Julia Higgins Collaborative Research Fund</strong> (PI)<br>
 [06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author)<br>
 [06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
