@@ -13,7 +13,7 @@ I am a Research Associate at the Department of Bioengineering and Imperial-X, Im
 
 My research interests include computational MRI & MRS, biomedical image and signal processing, medical image analysis, and machine learning. To date, I have published over 20 papers in top-tier peer-reviewed engineering and medical imaging journals, including IEEE TMI/TIP/TNNLS/TBME/TCI/JBHI/SPM, MedIA, and Radiology: AI, with 1,000+ citations and an h-index of 15 on Google Scholar. I have also served as the leading organizers for prestigious MICCAI challenges such as CMRxRecon 2024/2025, and worked closely with well-known medical imaging industries, including Siemens, Philips, as well as other well-known hospitals.
 
-My work has been recognized by several prestigious awards, including the DAAD AINeT Fellowship (2026), SCMR Early Career Award Finalist (2025), OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and PI/co-PI of the Dame Julia Higgins Collaborative Research Fund.
+My work has been recognized by several prestigious awards, including the DAAD AINeT Fellowship (2026), CIS Outstanding Doctoral Dissertation Award Finalist (2026), SCMR Early Career Award Finalist (2025), OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and PI/co-PI of the Dame Julia Higgins Collaborative Research Fund.
 
 My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang).
 
@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[08/2026] Awarded the <strong>CIS Outstanding Doctoral Dissertation Award Finalist (Top 9)</strong><br>
 [08/2026] Awarded the <strong>Dame Julia Higgins Collaborative Research Fund</strong> (PI)<br>
 [06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author)<br>
 [06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
@@ -54,7 +55,7 @@ News
 [03/2025] One paper accepted at *Medical Image Analysis*<br>
 [03/2025] Call for participation in our <strong>[CMRxRecon2025 Challenge](https://github.com/CmrxRecon/CMRxRecon2025) at MICCAI 2025</strong><br>
 [02/2025] Started working at <strong>Imperial College London as a Research Associate</strong><br>
-[02/2025] Awarded the <strong>SCMR Early Career Award Finalist (1/6)</strong><br>
+[02/2025] Awarded the <strong>SCMR Early Career Award Finalist (Top 6)</strong><br>
 [01/2025] One paper accepted at *Medical Image Analysis*<br>
 [01/2025] One paper accepted at *Radiology: Artificial Intelligence* (First author)<br>
 
