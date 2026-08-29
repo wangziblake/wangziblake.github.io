@@ -8,7 +8,7 @@ author_profile: true
    at British Heart Foundation Programme Networking Event, UK, Jun 2026 [Oral]
   
 - **Enabling ultra-fast cardiovascular imaging across heterogeneous clinical environments: A generalist foundation model and multimodal database**\
-   at BIC-ISMRM Scientific Meeting, UK, Sept 2026 [Poster]\
+   at BIC-ISMRM Scientific Meeting, UK, Sep 2026 [Poster]\
    at Xiamen University, China, Dec 2025 [Oral]
   
 - **Physics-informed synthetic data learning boosts multi-scenario fast MRI reconstruction**\
