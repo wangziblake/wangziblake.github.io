@@ -31,6 +31,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[08/2026] Served as <strong>Youth Editorial Board Member for *Brain Circulation*</strong><br>
 [08/2026] Awarded the <strong>Outstanding Doctoral Dissertation Award of Fujian Province, China</strong><br>
 [08/2026] Awarded the <strong>CIS Outstanding Doctoral Dissertation Award Finalist (Top 18)</strong><br>
 [08/2026] Awarded the <strong>Dame Julia Higgins Collaborative Research Fund</strong> (PI)<br>
@@ -40,7 +41,7 @@ News
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
 [05/2026] Call for participation in our <strong>[MRIxFields2026 Challenge](https://github.com/MRIxFields/MRIxFields2026) at MICCAI 2026</strong><br>
 [04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
-[04/2026] Invited as <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
+[04/2026] Served as <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
 [03/2026] Served as <strong>Session Chair for [ISBI 2026](https://biomedicalimaging.org/2026/)</strong><br>
