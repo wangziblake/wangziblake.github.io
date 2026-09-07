@@ -16,6 +16,7 @@ My research interests include computational MRI & MRS, biomedical image and sign
 My work has been recognized by several prestigious awards, including the DAAD AINeT Fellowship (2026), CIS Outstanding Doctoral Dissertation Award Finalist (2026), SCMR Early Career Award Finalist (2025), OCSMRM Young Investigator Award (2024), ISMRM Summa Cum Laude Merit Award (2024), ISMRM Educational Stipend Award (2021–2023), and Chinese National Scholarship (2022). I currently hold research grants as PI of the Seeds for Success Fund, PI of the UKRI Isambard-AI AIRR GPU Service, and PI/co-PI of the Dame Julia Higgins Collaborative Research Fund.
 
 My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang).
+
 A Yang Lab homepage: [AYL](https://www.yanglab.fyi).
 
 Research Interests
