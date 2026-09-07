@@ -17,7 +17,7 @@ My work has been recognized by several prestigious awards, including the DAAD AI
 
 My Imperial official homepage: [Imperial Profile](https://profiles.imperial.ac.uk/zi.wang).
 
-A Yang Lab homepage: [AYL](https://www.yanglab.fyi).
+A Yang Lab (PI: Prof. Guang Yang) homepage: [AYL Homepage](https://www.yanglab.fyi).
 
 Research Interests
 ------
