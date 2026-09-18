@@ -4,6 +4,9 @@ title: "Invited Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- **AI for Computational MRI: From physics-informed imaging to clinically meaningful intelligence**\
+   at Technical University of Munich, Germany, Sep 2026 [Oral]
+  
 - **AI-enabled cardiovascular MRI: From physics-informed imaging to clinically meaningful intelligence**\
    at British Heart Foundation Programme Networking Event, UK, Jun 2026 [Oral]
   
