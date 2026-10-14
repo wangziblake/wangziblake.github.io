@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Awards"
+    url: /awards/
+    
   - title: "Publications"
     url: /publications/
 
@@ -13,6 +16,3 @@ main:
 
   - title: "Services"
     url: /services/    
-
-  - title: "Awards"
-    url: /awards/
