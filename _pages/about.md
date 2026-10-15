@@ -38,7 +38,7 @@ News
 [08/2026] Awarded the <strong>Outstanding Doctoral Dissertation Award of Fujian Province, China</strong><br>
 [08/2026] Awarded the <strong>CIS Outstanding Doctoral Dissertation Award Finalist (Top 18)</strong><br>
 [08/2026] Awarded the <strong>Dame Julia Higgins Collaborative Research Fund</strong> (PI)<br>
-[06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author)<br>
+[06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author), Congratulations to Xueyi!<br>
 [06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
 [06/2026] Three papers accepted at *MICCAI 2026* (Two as primary authors)<br>
 [05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
