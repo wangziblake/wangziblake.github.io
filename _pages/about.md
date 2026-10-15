@@ -42,10 +42,10 @@ News
 [06/2026] One paper accepted at *MICCAI STACOM Workshop 2026* (Corresponding author). Congratulations to Xueyi<br>
 [06/2026] <strong>Google Scholar citation exceeded 1000</strong><br>
 [06/2026] Three papers accepted at *MICCAI 2026* (Two as primary authors)<br>
-[05/2026] Selected as a <strong>DAAD AINeT Fellow</strong><br>
+[05/2026] Selected as <strong>DAAD AINeT Fellow</strong><br>
 [05/2026] Call for participation in our <strong>[MRIxFields2026 Challenge](https://github.com/MRIxFields/MRIxFields2026) at MICCAI 2026</strong><br>
 [04/2026] One paper accepted at *IEEE Transactions on Medical Imaging* (Primary author)<br>
-[04/2026] Served as <strong>Guest Editor for a [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
+[04/2026] Served as <strong>Guest Editor for [Special Issue](https://www.mdpi.com/journal/jimaging/special_issues/TSF3R8L3R6) in *Journal of Imaging*</strong><br>
 [03/2026] One paper accepted at *IEEE Transactions on Image Processing*<br>
 [03/2026] Call for participation in our <strong>[CMRx4DFlow2026 Challenge](https://github.com/CmrxRecon/CMRx4DFlow2026) at MICCAI 2026</strong><br>
 [03/2026] Served as <strong>Session Chair for [ISBI 2026](https://biomedicalimaging.org/2026/)</strong><br>
