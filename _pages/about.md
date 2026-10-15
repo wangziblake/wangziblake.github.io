@@ -33,6 +33,7 @@ We are working on several projects on the aforementioned topics. This is the wor
 
 News
 ------
+[10/2026] Appointed as <strong>Assistant Supervisor at Imperial College London</strong><br>
 [09/2026] One paper accepted at *IEEE Transactions on Medical Imaging*<br>
 [08/2026] Served as <strong>Youth Editorial Board Member for *Brain Circulation*</strong><br>
 [08/2026] Awarded the <strong>Outstanding Doctoral Dissertation Award of Fujian Province, China</strong><br>
