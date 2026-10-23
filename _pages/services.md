@@ -38,6 +38,7 @@ Selected Journal & Conference Reviewer
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
 - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 - Magnetic Resonance in Medicine (MRM)
+- Journal of Cardiovascular Magnetic Resonance (JCMR)
 - Magnetic Resonance Letters (MRL)
 - Pattern Recognition (PR)
 - Information Fusion (IF)
