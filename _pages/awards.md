@@ -22,6 +22,7 @@ Selected Awards
 Selected Grants
 ------
 - PI, Dame Julia Higgins Engineering Collaborative Research Fund, Imperial College London, *Advancing equitable and precision paediatric cardiovascular care through data-efficient AI*, Sep 2026-Jul 2027
+- PI, Isambard-AI AIRR GPU Service, UKRI, *Revolutionizing next-generation computational cardiovascular imaging with multimodal AI*, Nov 2026-Feb 2026
 - PI, Seeds for Success Fund, Imperial College London, *Need for speed: Revolutionizing computational cardiovascular MRI through multimodal AI*, Dec 2025-Jul 2026
 - PI, Isambard-AI AIRR GPU Service, UKRI, *Next-generation AI foundation model for medical image reconstruction and analysis*, Oct 2025-Jan 2026
 - Co-PI, Dame Julia Higgins Engineering Collaborative Research Fund, Imperial College London, *Revolutionizing cancer survival analysis through trustworthy AI and multimodal integration*, Oct 2025-Jul 2026
